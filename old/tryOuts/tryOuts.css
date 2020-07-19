@@ -23,8 +23,8 @@
 	}
 
 	a {
-		color: #629DD1;
-		text-decoration: underline;
+		color: #ffffff;
+		text-decoration: none;
 	}
 
 		a:hover {
@@ -842,7 +842,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 6em 15em 4em 15em;
 	}
 
 		.wrapper.style1 {
@@ -961,6 +961,28 @@
 						padding-top: 1em;
 					}
 
+						.dropdown {
+							position: relative;
+							display: inline-block;
+							font-family: "Robotech GP", Helvetica, sans-serif;
+							color: #ffffff;
+						}
+						
+						.dropdown-content {
+							display: none;
+							position: absolute;
+							background-color: #0023eb;
+							min-width: 160px;
+							box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+							padding: 12px 16px;
+							text-decoration: none;
+							color: #cfcfcf;
+							z-index: 1;
+						}
+						
+						.dropdown:hover .dropdown-content {
+							display: block;
+						}
 						#header nav > ul > li a:hover {
 							color: #cfcfcf;
 						}
@@ -1044,6 +1066,17 @@
 				color: #ffffff;
 				text-decoration: none;
 			}
+
+/* content */
+
+.container {
+	left: 10em;
+	/* margin-left: 40em; */
+}
+
+.indented-item {
+	margin-left: 1em;
+}
 
 /* Footer */
 
