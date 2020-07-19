@@ -44,8 +44,12 @@ body {
     color: rgb(155, 155, 155);
 }
 
-.dropdown-content a {
+.dropdown-content {
     display: none;
+}
+
+.dropdown-content a {
+    display: block;
     position: relative;
     margin-top: 2em;
     /* background-color: #0023eb; */
