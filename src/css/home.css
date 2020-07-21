@@ -123,6 +123,10 @@ body {
 
 .welcome > .text {
     font-size: x-large;
+    background: #ffffff48;
+    display: inline-block;
+    border-radius: 20px;
+
 }
 
 .framedContent {
