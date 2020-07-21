@@ -25,7 +25,7 @@ body {
     margin: 0;
     padding: 0;
     padding-right: 1em;
-    overflow: auto;
+    overflow: initial;
     background-color: #1334f0;
     position: fixed;
     top: 0;
@@ -57,6 +57,7 @@ body {
 
 .dropdown {
     display: inline-block;
+    overflow: hidden;
 }
 
 .dropdown-content {
