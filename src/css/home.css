@@ -1,8 +1,12 @@
 @font-face {
     font-family: 'montserrat';
     src: url('../fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
-    font-weight: bold;
 }
+
+/* @font-face {
+    font-family: 'Robotech GP';
+    src: url('../fonts/robotechGP/robotech_gp-webfont.woff');
+} */
 
 body {
     margin:0;
@@ -121,7 +125,7 @@ body {
 
 .framedContent {
     margin: 0;
-    padding: 5em 10em;
+    padding: 5% 10%;
     display: flex;
 }
 
@@ -130,15 +134,9 @@ body {
     object-fit: cover;
 }
 
-@media only screen and (max-width: 1170px) {
-    .framedContent > .squarePic {
-        object-fit: contain;
-    }
-}
-
 .framedContent > .text {
-    margin-left: 5em;
-    padding: 2em 5em;
+    margin-left: 5%;
+    padding: 2% 5%;
 }
 
 .framedContent > .text > a > button {
@@ -155,6 +153,9 @@ body {
     -webkit-appearance: none;
     appearance: none;
 }
+
+/* @media only screen and (min-width: 873px) {
+} */
 
 
 .footer {
