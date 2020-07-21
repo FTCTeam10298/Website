@@ -94,7 +94,7 @@ body {
 .welcome {
     margin: 0;
     background-image: url("../images/teamAtPit.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
     color: #ffffff;
@@ -126,8 +126,14 @@ body {
 }
 
 .framedContent > .squarePic {
-    min-width: 50%;
     width: 50%;
+    object-fit: cover;
+}
+
+@media only screen and (max-width: 1170px) {
+    .framedContent > .squarePic {
+        object-fit: contain;
+    }
 }
 
 .framedContent > .text {
