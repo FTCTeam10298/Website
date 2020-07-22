@@ -102,6 +102,11 @@ body {
     padding-top: 6em;
 }
 
+.profile {
+    display: inline-block;
+    margin: 3%;
+}
+
 .profile > .pic {
     max-width: 20em;
     max-height: 25em;
