@@ -37,7 +37,85 @@
 
                 <h2>Ultimate Goal:</h2>
                 <br>
+                <div class="profiles"></div>
+                <script>
+                    var people = [{
+                        name:"Harry Butkiss",
+                        role:"",
+                        yearsInFirst:1,
+                        personalAttributes:{
+                            "favorite flower" : "fire flower",
+                            "most awkward moment" : "when I stepped on a rake.  ouch!",
+                            "superpower":"eating candy"},
+                        bio:"",
+                        imageUrl:"../images/profileStu.jpg"
+                    },{
+                        name:"Harry Butkiss",
+                        role:"",
+                        yearsInFirst:1,
+                        personalAttributes:{
+                            "favorite flower" : "fire flower",
+                            "most awkward moment" : "when I stepped on a rake.  ouch!",
+                            "superpower":"eating candy"},
+                        bio:"",
+                        imageUrl:"../images/profileStu.jpg"
+                    },{
+                        name:"Harry Butkiss",
+                        role:"",
+                        yearsInFirst:1,
+                        personalAttributes:{
+                            "favorite flower" : "fire flower",
+                            "most awkward moment" : "when I stepped on a rake.  ouch!",
+                            "superpower":"eating candy"},
+                        bio:"",
+                        imageUrl:"../images/profileStu.jpg"
+                    },{
+                        name:"Harry Butkiss",
+                        role:"",
+                        yearsInFirst:1,
+                        personalAttributes:{
+                            "favorite flower" : "fire flower",
+                            "most awkward moment" : "when I stepped on a rake.  ouch!",
+                            "superpower":"eating candy"},
+                        bio:"",
+                        imageUrl:"../images/profileStu.jpg"
+                    },{
+                        name:"Harry Butkiss",
+                        role:"",
+                        yearsInFirst:1,
+                        personalAttributes:{
+                            "favorite flower" : "fire flower",
+                            "most awkward moment" : "when I stepped on a rake.  ouch!",
+                            "superpower":"eating candy"},
+                        bio:"",
+                        imageUrl:"../images/profileStu.jpg"
+                    }]
 
+
+                    for(var x = 0;x<people.length;x++){
+                        var person = people[x]
+                        appendBio(person)
+                    }
+
+                    function appendBio(person){
+                        var div = document.createElement("div")
+                        div.setAttribute("class", "profile")
+                        var personalAttributes = ""
+                        Object.keys(person.personalAttributes).map(function(attributeName){
+                            personalAttributes += attributeName + ": " + person.personalAttributes[attributeName] + "<br>"
+                        })
+                        div.innerHTML = '<h3>' + person.name + '</h3> ' + 
+                                        '<img class="pic" src="' + person.imageUrl + '">' + 
+                                        '<p>' + 
+                                        '    Team role: ' + person.role + '<br>' + 
+                                        '    Years in FIRST: ' + person.yearsInFirst + '<br>' + 
+                                        personalAttributes + 
+                                        '    ' + person.bio + 
+                                        '</p>' + 
+                                        '<p>&nbsp;</p>';
+                        document.querySelector(".profiles").appendChild(div)
+                    }
+                </script>
                 <div class="profile">
                     <h3>James Penrose</h3>
                     <img class="pic" src="../images/profileJames.png">
