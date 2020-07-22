@@ -1,7 +1,11 @@
 @font-face {
     font-family: 'montserrat';
     src: url('../fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
-    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Robotech GP';
+    src: url('../fonts/robotechGP/robotech_gp-webfont.woff');
 }
 
 html, body {
@@ -27,7 +31,7 @@ body {
     margin: 0;
     padding: 0;
     padding-right: 1em;
-    overflow: auto;
+    overflow: initial;
     background-color: #1334f0;
     position: fixed;
     top: 0;
