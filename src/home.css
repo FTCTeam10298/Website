@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'montserrat';
-    src: url('../fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
+    src: url('fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
 }
 
 @font-face {
     font-family: 'Robotech GP';
-    src: url('../fonts/robotechGP/robotech_gp-webfont.woff');
+    src: url('fonts/robotechGP/robotech_gp-webfont.woff');
 }
 
 body {
@@ -99,7 +99,7 @@ body {
 
 .welcome {
     margin: 0;
-    background-image: url("../images/teamAtPit.jpg");
+    background-image: url("images/teamAtPit.jpg");
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
