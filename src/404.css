@@ -1,4 +1,99 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url('fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
+}
+
+@font-face {
+    font-family: 'Robotech GP';
+    src: url('fonts/robotechGP/robotech_gp-webfont.woff');
+}
+
 body {
-    margin: 10%;
+    margin:0;
+    font-family: 'montserrat';
+    background-color: #fff;
+}
+
+.robotech {
+    font-family: "Robotech GP";
+    letter-spacing: .05em;
+}
+
+.navBar {
+    text-align:right!important;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-right: 1em;
+    overflow: initial;
+    background-color: #1334f0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.navItem {
+    text-align: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 26px 16px;
+    text-decoration: none;
+    float: right;
+    font-size: large;
+}
+
+.navBar > li > a > .logo {
+    float: left;
+    padding: 14px 16px;
+    width: auto;
+    height: 3em;
+}
+
+.navItem:hover {
+    color: rgb(155, 155, 155);
+}
+
+.dropdown {
+    display: inline-block;
+    overflow: hidden;
+}
+
+.dropdown-content {
+    -webkit-display: none;
+    display: none;
+    position: fixed;
+    margin-top: 2.6em;
+    overflow: overlay;
+    z-index: 200;
+}
+
+.dropdown-content a {
+    display: inline-block;
+    position: relative;
+    margin-top: 2em;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    background-color: #1334f0;
+    padding: 12px 16px;
+    z-index: 100;
+    float: right;
+    color: #fff;
+    text-decoration: none;
+}
+
+.dropdown-content a:hover {
+    color: rgb(155, 155, 155);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* content */
+.content {
+    margin-top:20px;
+    margin-bottom: 20px;
+    height:1500px;
 }
 
