@@ -247,23 +247,22 @@ var people = [{
         "Grade": "8th",
         "Favorite food": "Burritos"
     },
-    bio: "Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis… and even if he isn’t pronouncing it right, nobody can prove him wrong.",
+    bio: "Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn’t pronouncing it right, nobody can prove him wrong.",
     imageUrl: "../images/profileSkyler.png"
 }]
 
 
-for(var x = 0;x<people.length;x++){
-    var person = people[x]
+for(var x = 0;x<people.length;x++) {
+    var person = people[x];
 
-    var skystone = person;
+    var skystone = people[x];
     console.log(skystone);
     appendBio(person, ".ultimateGoal");
 }
 
-for(var x = 0;x<skystone.length;x++){
-    var persen = skystone[x]
-    console.log(persen);
-    appendBio(persen, ".skystone");
+for(var y = 1;y<skystone.length;y++) {
+    var persen = skystone[y];
+    appendBio(persen, ".ultimateGoal");
 }
 
 // appendBio(person, ".ultimateGoal")
