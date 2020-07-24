@@ -186,6 +186,17 @@ td > img {
     max-width: 50%;
 }
 
+.profile {
+    display: inline-block;
+    margin: 3%;
+}
+
+.profile > .pic {
+    max-width: 20em;
+    max-height: 25em;
+    scale: 1;
+}
+
 .footer {
     margin: 0;
     padding: 0;
