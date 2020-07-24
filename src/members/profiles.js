@@ -106,7 +106,7 @@ var people = [{
         "Favorite food": "Asian Confusion"
     },
     bio: "Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.",
-    imageUrl: "images/profileSung.jpg"
+    imageUrl: "images/profileSung.JPG"
 },{
 
 
