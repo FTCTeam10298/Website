@@ -90,14 +90,10 @@ body {
     display: block;
 }
 
-/* content */
-.content {
-    margin-top:20px;
-    margin-bottom: 20px;
-    height:1500px;
-}
-
 .welcome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     margin: 0;
     background-image: url("images/teamAtPit.jpg");
     background-size: cover;
@@ -107,8 +103,7 @@ body {
     text-align: center;
     position: relative;
     z-index: 1;
-    padding-top: 20em;
-    padding-bottom: 25em;
+    height: 100vh;
 }
 
 .welcome:before {
@@ -126,7 +121,7 @@ body {
     background: #00000059;
     display: inline-block;
     border-radius: 20px;
-    width: 80%;
+    padding: 0 1em;
 }
 
 .framedContent {
