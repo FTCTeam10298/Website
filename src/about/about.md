@@ -1,0 +1,9 @@
+'Brain Stormz' is a private, non-profit robotics team competing in FIRST Tech Challenge (FTC). FIRST Tech Challenge is run by FIRST (For Inspiration and Recognition of Science and Technology), an organization seeking to spread knowledge of Science, Technology, Engineering, and Math (STEM) throughout the world.   
+
+In FTC, teams design a robot to complete tasks. A team will bring their robot to different tournaments, where they are randomly matched with one other team a their partner and two teams as opponents. Teams must work together with their partners to get more points than their opponent during the 2 1/2 minute match, thirty seconds pre-programmed (autonomous) and two minutes remote-controlled (tele-op). Each round the teams are matched with different teams, until the final round. The four teams with the most wins get to choose their partners for the final rounds.   
+
+Our team is based in Ventura County. We hold all of our meetings in Camarillo, except for field trips and the occasional pool party. We are a homeschooled, community team, which makes it difficult to fundraise, as we can't get grants from a school board. FTC is quite expensive, so a big shout-out to our sponsors - we couldn't have done it without them!    
+
+This year's challenge will be the most daunting yet, but we are up to the task! Check out this year's game here: [firstinspires.org/robotics/ftc/game-and-season](https://www.firstinspires.org/robotics/ftc/game-and-season).
+
+Want to see our progress through our season? Be sure to check our Outreach and Robot tabs, as we update them periodically with new events and prototypes.
