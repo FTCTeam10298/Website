@@ -22,7 +22,7 @@ var people = [{
         "Grade": "8th",
         "Favorite food": "Soy yogurt",
         },
-    bio:"Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, “Bricking the Limits” who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.",
+    bio:'Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.',
     imageUrl:"images/profileAdrian.png"
 },{
 
@@ -57,7 +57,7 @@ var people = [{
         "Grade": "12th",
         "Favorite food": "Soy yogurt"
     },
-    bio:"Jacob is a Nerd/Geek (he hasn’t figured out which one yet) who has been interested in technology his entire life.&nbsp;This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob’s PC Tune-Up.&nbsp; When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.",
+    bio:"Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life.&nbsp;This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob's PC Tune-Up.&nbsp; When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.",
     imageUrl:"images/profileJacob.jpg"
 },{
 
@@ -93,7 +93,7 @@ var people = [{
         "Age": "51",
         "Favorite food": "Fondue"
     },
-    bio: "Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor’s degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.",
+    bio: "Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.",
     imageUrl: "images/profileJeff.png"
 },{
 
@@ -130,7 +130,7 @@ var people = [{
         "Age": "19",
         "Favorite food": "Fish and Chips"
     },
-    bio: "Daniel Peace is 19 years old and has always been interested in robotics and machines. This is his fourth year in First Tech Challenge. He was one of Brain Stormz’s founding members, and is now a mentor. When not helping with robots he enjoys playing basketball and volleyball, and he also plays piano.",
+    bio: "Daniel Peace is 19 years old and has always been interested in robotics and machines. This is his fourth year in First Tech Challenge. He was one of Brain Stormz's founding members, and is now a mentor. When not helping with robots he enjoys playing basketball and volleyball, and he also plays piano.",
     imageUrl: "images/profileDaniel.jpg"
 },{
 
@@ -143,7 +143,7 @@ var people = [{
         "Grade": "12th",
         "Favorite food": "Burgers"
     },
-    bio: "Noah has been involved in FIRST programs since 2013. This is Noah’s fourth year on a FTC team, having completed two years prior of FLL with The B.E.S.T Team and being a founding member of the FTC team Brain Stormz. Noah is part of Trinity Pacific Christian School, which is a private school in Thousand Oaks, California. He is heavily involved in basketball at his school having played since he was ten. In his free time he likes to play his collection of vintage video games including a Sega Genesis and a Nintendo Entertainment System. Noah has liked Engineering since he was little having been a fan of Lego/Mindstorms since he was 7.",
+    bio: "Noah has been involved in FIRST programs since 2013. This is Noah's fourth year on a FTC team, having completed two years prior of FLL with The B.E.S.T Team and being a founding member of the FTC team Brain Stormz. Noah is part of Trinity Pacific Christian School, which is a private school in Thousand Oaks, California. He is heavily involved in basketball at his school having played since he was ten. In his free time he likes to play his collection of vintage video games including a Sega Genesis and a Nintendo Entertainment System. Noah has liked Engineering since he was little having been a fan of Lego/Mindstorms since he was 7.",
     imageUrl: "images/profileNoah.png"
 },{
 
@@ -247,7 +247,7 @@ var people = [{
         "Grade": "8th",
         "Favorite food": "Burritos"
     },
-    bio: "Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn’t pronouncing it right, nobody can prove him wrong.",
+    bio: "Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn't pronouncing it right, nobody can prove him wrong.",
     imageUrl: "images/profileSkyler.png"
 }]
 
