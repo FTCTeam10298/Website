@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -33,6 +34,28 @@
             <div class="text">
 
                 <h1>The Story of our&nbsp;Robot</h1>
+
+
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
+                        }
+
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
+
+                    get("robot.md", function(text){
+
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
+
 
                 <h2>2017-2018 season</h2>
                 <p>This season, our approach to designing our robot has changed. Last season, we noticed that many interesting, potentially high scoring designs that we prototyped never made it on the robot, such as a cap ball lifter and an improved, spring loaded shooter. We found the reason was because we were too focused on getting the robot working now rather than thinking towards what are robot should look like in the future. Because of this, our engineering process this season started out with prototyping every possible mechanism so we didn't need to leave any point scoring elements off our robot later in the season.&nbsp; Our strategy was to be as offensive as possible, as defense didn't look like a viable option, given the extremely reduced and sectioned space in this year's challenge. Compatibility, which was a large part of last year's game, was a low priority as well, as no missions in autonomous or TeleOp required both alliance partners to work well with each other to succeed. This in mind, we set out to make a robot that could be effective while alone, and help an alliance partner, too.</p>

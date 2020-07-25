@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -34,9 +35,29 @@
 
 
                 <div class="awards">
+
                     <h1>Awards</h1>
                             
 
+                    <div id="markdown-content"></div>
+                    <script>
+                        function get(url, onResult){
+                            function reqListener () {
+                                onResult(this.responseText);
+                            }
+    
+                            var oReq = new XMLHttpRequest();
+                            oReq.addEventListener("load", reqListener);
+                            oReq.open("GET", url);
+                            oReq.send();
+                        }
+    
+                        get("awards.md", function(text){
+    
+                            var contentHolder = document.getElementById('markdown-content')
+                            contentHolder.innerHTML = marked(text);
+                        })
+                    </script>
 
 
                     <h2>2018-19 Rover Ruckus</h2>

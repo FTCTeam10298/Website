@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -44,6 +45,26 @@
                 </ul>
 
                 <p>Here is a timeline of our various outreach projects.</p>
+
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
+                        }
+
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
+
+                    get("outreach.md", function(text){
+
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
 
                 <h3>Linux - December 2015</h3>
                 <table>

@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -32,80 +33,26 @@
             <!-- tryouts text -->
             <div class="text">
 
-                <h1>Offseason Training/Try-outs</h1>
-                <p>Brain Stormz is excited to announce the start of Training & Try-Outs for the upcoming 2020/21 FTC season.  Come join us to see if you have what it takes (enthusiasm & dedication) to be a part of this award-winning, world-competitive robotics team.</p>
 
-                <h2>Why Join Brain Stormz?</h2>
-                <p>Brain Stormz exists to build excellence & capability in the areas of leadership, product design, software/hardware engineering, manufacturing & promotion.  If you are a high-school student aged 13-18 & are interested in building real-world skills in the context of a competitive robotics team, this is the right opportunity for you.</p>
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
+                        }
 
-                <h2>What Spots Are Available?</h2>
-                <p>There are currently 4 spots available.  Additional spots may be opened if the need arises and there are qualified candidates.</p>
-                <p>Candidates must be able to perform one or more of the following roles:</p>
-                <ul>
-                    <li>Core Engineering Team Members (Design/Build/Code)</li>
-                    <li>Robot Drivers</li>
-                    <li>Competition Scouts/Strategists</li>
-                    <li>Technical Writers</li>
-                    <li>Fundraisers</li>
-                    <li>Promoters
-                    <ul>
-                        <li>Web Designers</li>
-                        <li>Graphic Designers</li>
-                        <li>Video Producers</li>
-                        <li>Community Outreach Liaisons</li>
-                    </ul>
-                    </li>
-                </ul>
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
 
-                <h2>What is Off-Season Training & Try-Outs?</h2>
-                <p>Brain Stormz is offering a series of training opportunities leading-up to the official start of the 2020/21 FTC season.&nbsp; These classes provide candidates with:</p>
-                <ul>
-                    <li>Valuable training in basic robotics skills, including CAD/CAM &amp; Software Engineering</li>
-                    <li>An opportunity to work with the existing team, coaches and mentors</li>
-                    <li>Ability to be selected as an official team member for the upcoming season</li>
-                </ul>
-                <p>General requirements for involvement in Off-Season Training &amp; Try-Outs are:</p>
-                <ul>
-                    <li>Access to a computer that can run needed software (Android Studio, SolidWorks, etc.)</li>
-                    <li>Ability to attend classes/meetings &amp; do homework (varies by course)</li>
-                </ul>
-                <p>The schedule is subject to change, but currently includes:</p>
-                <ul>
-                    <li>Intro to SolidWorks (2-10 hours/week, meeting on Monday evenings)</li>
-                    <li>Programming Bootcamp (May 12-16<sup>th</sup>)</li>
-                </ul>
+                    get("tryouts.md", function(text){
 
-
-                <h2>How do I Become A Team Member?</h2>
-                <p>Membership with Brain Stormz is not automatic.&nbsp; Membership is normally a 2-step process:</p>
-                <h3>STEP 1: Try-Out.</h3>
-                <p>Practice with the team on a provisional basis for a series of training-sessions and/or meetings.</p>
-                <h3>STEP 2: Team Decides</h3>
-                <p>After a suitable period of training/practicing with the team, members will be selected on the basis of:</p>
-                <ul>
-                    <li>Enthusiasm &amp; Interest</li>
-                    <li>Focus</li>
-                    <li>Teachability</li>
-                    <li>Natural Ability</li>
-                    <li>Ability to meet time commitments
-                    <ul>
-                    <li>~2-10 hours/week, depending on role</li>
-                    <li>Regular meetings in Thousand Oaks</li>
-                    </ul>
-                    </li>
-                    <li>Ability to fill one or more needed roles</li>
-                </ul>
-                <h2>What is Brain Stormz?</h2>
-                <p>Brain Stormz is an accomplished, championship, private, non-profit robotics team&nbsp;competing in FIRST Tech Challenge (FTC).&nbsp; The team is based in Ventura County, with most meetings in Thousand Oaks (near The Oaks mall), except for field trips and the occasional party.&nbsp; We are a homeschooled, community team, with informal ties to local groups such as Trinity Pacific Christian School, Group Solutions, and Classical Conversations.</p>
-                <h2>What's FTC?</h2>
-                <p>It's way more than building robots. &nbsp;FIRST Tech Challenge teams are challenged to design, build, program, and operate robots to compete in a head-to-head challenge in an alliance format.</p>
-                <p>Guided by adult coaches and mentors, students develop STEM skills and practice engineering principles, while realizing the value of hard work, innovation, and working as a team.</p>
-                <p>Parts and assemblies are reusable from year to year and can be coded using a variety of levels of JVM-based programming. &nbsp;Teams design and build robots, raise funds, design and market their team brand, and do community outreach to earn specific awards. Participants are eligible to apply for $80M+ in college scholarships.</p>
-                <p>Each season concludes with regional championship events and an exciting world championship.</p>
-                <p>For more about FTC, visit <a href="https://www.firstinspires.org/robotics/ftc">https://www.firstinspires.org/robotics/ftc</a></p>
-                
-
-
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
 
             </div>
 

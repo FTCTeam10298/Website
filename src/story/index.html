@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -121,6 +122,27 @@
             <p dir="ltr">We're a four-person, unmentored, private rookie team- and we were still able to win the competition! It was awesome! Besides the big win, we also got awards for 2nd Place Inspire (incidentally, 1st place went to 'the Ducks') and 1st Place Robot Design.</p>
             <p dir="ltr">Coming up soon is our regional tournament. We might win again, we might fail epically- but no matter what happens, we're still a team- and we can be confident that we'll learn skills that will apply to our lives.</p>
             </div>
+
+            <div id="markdown-content"></div>
+            <script>
+                function get(url, onResult){
+                    function reqListener () {
+                        onResult(this.responseText);
+                    }
+
+                    var oReq = new XMLHttpRequest();
+                    oReq.addEventListener("load", reqListener);
+                    oReq.open("GET", url);
+                    oReq.send();
+                }
+
+                get("story.md", function(text){
+
+                    var contentHolder = document.getElementById('markdown-content')
+                    contentHolder.innerHTML = marked(text);
+                })
+            </script>
+
             </div>
 
 

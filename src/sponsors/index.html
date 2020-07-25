@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     </head>
     <body>
 
@@ -34,6 +35,29 @@
 
                 <h1>Sponsors</h1>
                 <p>We are so thankful to our sponsors and donors throughout the years!&nbsp; If you are interested in becoming one, please contact us through our email at <a href="mailto:ftc10298@gmail.com" target="_blank">ftc10298@gmail.com</a>.</p>
+                
+                <div class="sponsors">
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
+                        }
+
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
+
+                    get("sponsors.md", function(text){
+
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
+                </div>
+
                 <h1>2017-18</h1>
 
                 <hr>

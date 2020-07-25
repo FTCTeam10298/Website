@@ -97,7 +97,7 @@ body {
 }
 
 .text {
-    padding: 15em;
+    padding: 15%;
     padding-top: 6em;
 }
 
@@ -183,12 +183,18 @@ td > img {
 
 .sponsors {
     display: block;
-    max-width: 50%;
-    list-style: none;
 }
 
 .sponsors > li {
     padding: 2%;
+    max-width: 50%;
+    list-style: none;
+}
+
+.sponsors > #markdown-content > ul > li {
+    padding: 2%;
+    max-width: 50%;
+    list-style: none;
 }
 
 .profile {
@@ -203,6 +209,10 @@ td > img {
 }
 
 .awards > img {
+    max-width: 30%;
+}
+
+#markdown-content > p > img {
     max-width: 30%;
 }
 
