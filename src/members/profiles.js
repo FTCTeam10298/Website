@@ -1,4 +1,15 @@
 var people = [{
+   
+   
+    name:"dummy",
+    role: "fills space",
+    yearsInFirst: 2,
+    personalAttributes:{
+        "IQ": "0"
+    },
+    bio:"Dummy fills space so that the real team members don't get missed",
+    imageUrl:"images/profileDummy.png"
+},{
 
 
     name:"James Penrose",
@@ -252,22 +263,65 @@ var people = [{
 }]
 
 
-for(var x = 0;x<people.length;x++) {
+var ultimateTeam = ["James Penrose", 
+                    "Stu Penrose", 
+                    "Adrian (AJ) Flores Jr.", 
+                    "Garrett Smalley", 
+                    "Jacob Newman", 
+                    "Jeff DeVico", 
+                    "Sung Choi"]
+
+var skystoneTeam = ["James Penrose", 
+                    "Stu Penrose", 
+                    "Adrian (AJ) Flores Jr.", 
+                    "Garrett Smalley", 
+                    "Jacob Newman", 
+                    "Destin Neargarder", 
+                    "Glenn Neargarder", 
+                    "Jeff DeVico", 
+                    "Sung Choi", 
+                    "Stephanie Ramirez", 
+                    "Daniel Peace", 
+                    "Noah Jeffery DeVico", 
+                    "Nathan Michael Choi", 
+                    "Ian Murray", 
+                    "Olivia Owen"]
+
+var skystoneTeam = ["Garrett Smalley", 
+                    "Jacob Newman", 
+                    "Jeff DeVico", 
+                    "Sung Choi", 
+                    "Stephanie Ramirez", 
+                    "Daniel Peace", 
+                    "Noah Jeffery DeVico", 
+                    "Nathan Michael Choi", 
+                    "Ian Murray", 
+                    "Olivia Owen"]
+
+
+var skystone = []
+for(var x = 1; x<people.length; x++) {
     var person = people[x];
 
-    var skystone = people[x];
-    console.log(skystone);
-    appendBio(person, ".ultimateGoal");
+    skystone.push(people[x]);
+
+    if (ultimateTeam.includes(person.name))
+        appendBio(person, ".ultimateGoal");
 }
 
-for(var y = 1;y<skystone.length;y++) {
-    var persen = skystone[y];
-    appendBio(persen, ".ultimateGoal");
+for(var x = 1; x<people.length; x++) {
+    var person = people[x];
+    
+    if (skystoneTeam.includes(person.name))
+        appendBio(person, ".skystone");
 }
 
-// appendBio(person, ".ultimateGoal")
-
-
+for(var x = 1; x<people.length; x++) {
+    var person = people[x];
+    
+    if (skystoneTeam.includes(person.name))
+        appendBio(person, ".roverRuckus");
+}
 
 
 
