@@ -298,16 +298,16 @@ var ruckusTeam = ["Garrett Smalley",
                   "Ian Murray", 
                   "Olivia Owen"]
 
-var recoveryTeam = ["Jacob Newman", 
-                    "Jeff DeVico", 
-                    "Sung Choi",
-                    "Daniel Peace", 
-                    "Noah Jeffery DeVico", 
-                    "Nathan Michael Choi",
-                    "David Modrovich",
-                    "Joshua Soto",
-                    "Kimberly Sharp",
-                    "Olivia Choi"]
+var relicTeam = ["Jacob Newman", 
+                 "Jeff DeVico", 
+                 "Sung Choi",
+                 "Daniel Peace", 
+                 "Noah Jeffery DeVico", 
+                 "Nathan Michael Choi",
+                 "David Modrovich",
+                 "Joshua Soto",
+                 "Kimberly Sharp",
+                 "Olivia Choi"]
 
 var vortexTeam = ["Jacob Newman", 
                   "Jeff DeVico", 
@@ -330,45 +330,18 @@ var resQTeam = ["Jeff DeVico",
 for (var x = 1; x<people.length; x++) {
     var person = people[x];
 
-    if (ultimateTeam.includes(person.name))
-        appendBio(person, ".ultimateGoal");
+    addToTeam(ultimateTeam, ".ultimateGoal")
+    addToTeam(skystoneTeam, ".skystone")
+    addToTeam(ruckusTeam, ".roverRuckus")
+    addToTeam(relicTeam, ".relicRecovery")
+    addToTeam(vortexTeam, ".velocityVortex")
+    addToTeam(resQTeam, ".res-Q")
 }
 
-for (var x = 1; x<people.length; x++) {
-    var person = people[x];
-    
-    if (skystoneTeam.includes(person.name))
-        appendBio(person, ".skystone");
+function addToTeam(team, selector) {
+    if (team.includes(person.name))
+        appendBio(person, selector);
 }
-
-for (var x = 1; x<people.length; x++) {
-    var person = people[x];
-    
-    if (ruckusTeam.includes(person.name))
-        appendBio(person, ".roverRuckus");
-}
-
-for (var x = 1; x<people.length; x++) {
-    var person = people[x];
-    
-    if (recoveryTeam.includes(person.name))
-        appendBio(person, ".relicRecovery");
-}
-
-for (var x = 1; x<people.length; x++) {
-    var person = people[x];
-    
-    if (vortexTeam.includes(person.name))
-        appendBio(person, ".velocityVortex");
-}
-
-for (var x = 1; x<people.length; x++) {
-    var person = people[x];
-    
-    if (resQTeam.includes(person.name))
-        appendBio(person, ".res-Q");
-}
-
 
 function appendBio(person, season){
     var div = document.createElement("div")
