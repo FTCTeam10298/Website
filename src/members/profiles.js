@@ -42,7 +42,7 @@ var people = [{
     role: "Head Coach",
     yearsInFirst: 3,
     personalAttributes:{
-        "Favorite Food": "σαγανάκι",
+        "Favorite Food": "saganaki",
         },
     bio: "A life-long hardware &amp; software engineering enthusiast with a passion for teaching, Stu has worked as a product &amp; software engineering leader in a variety of large-scale internet companies over the past 20 years.&nbsp; When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.<br>" + 'Learn more about Stu at&nbsp;<a href="http://stu.penrose.us" target="_blank" rel="noopener">stu.penrose.us</a>',
     imageUrl:"images/profileStu.jpg"
