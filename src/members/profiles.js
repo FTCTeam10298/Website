@@ -287,42 +287,87 @@ var skystoneTeam = ["James Penrose",
                     "Ian Murray", 
                     "Olivia Owen"]
 
-var skystoneTeam = ["Garrett Smalley", 
-                    "Jacob Newman", 
+var ruckusTeam = ["Garrett Smalley", 
+                  "Jacob Newman", 
+                  "Jeff DeVico", 
+                  "Sung Choi", 
+                  "Stephanie Ramirez", 
+                  "Daniel Peace", 
+                  "Noah Jeffery DeVico", 
+                  "Nathan Michael Choi", 
+                  "Ian Murray", 
+                  "Olivia Owen"]
+
+var recoveryTeam = ["Jacob Newman", 
                     "Jeff DeVico", 
-                    "Sung Choi", 
-                    "Stephanie Ramirez", 
+                    "Sung Choi",
                     "Daniel Peace", 
                     "Noah Jeffery DeVico", 
-                    "Nathan Michael Choi", 
-                    "Ian Murray", 
-                    "Olivia Owen"]
+                    "Nathan Michael Choi",
+                    "David Modrovich",
+                    "Joshua Soto",
+                    "Kimberly Sharp",
+                    "Olivia Choi"]
+
+var vortexTeam = ["Jacob Newman", 
+                  "Jeff DeVico", 
+                  "Sung Choi",
+                  "Daniel Peace", 
+                  "Noah Jeffery DeVico", 
+                  "Nathan Michael Choi",
+                  "David Modrovich",
+                  "Joshua Soto",
+                  "Kimberly Sharp"]
+
+var resQTeam = ["Jeff DeVico", 
+                  "Sung Choi",
+                  "Daniel Peace", 
+                  "Noah Jeffery DeVico", 
+                  "Nathan Michael Choi",
+                  "Skyler Ray Atchison"]
 
 
-var skystone = []
-for(var x = 1; x<people.length; x++) {
+for (var x = 1; x<people.length; x++) {
     var person = people[x];
-
-    skystone.push(people[x]);
 
     if (ultimateTeam.includes(person.name))
         appendBio(person, ".ultimateGoal");
 }
 
-for(var x = 1; x<people.length; x++) {
+for (var x = 1; x<people.length; x++) {
     var person = people[x];
     
     if (skystoneTeam.includes(person.name))
         appendBio(person, ".skystone");
 }
 
-for(var x = 1; x<people.length; x++) {
+for (var x = 1; x<people.length; x++) {
     var person = people[x];
     
-    if (skystoneTeam.includes(person.name))
+    if (ruckusTeam.includes(person.name))
         appendBio(person, ".roverRuckus");
 }
 
+for (var x = 1; x<people.length; x++) {
+    var person = people[x];
+    
+    if (recoveryTeam.includes(person.name))
+        appendBio(person, ".relicRecovery");
+}
+
+for (var x = 1; x<people.length; x++) {
+    var person = people[x];
+    
+    if (vortexTeam.includes(person.name))
+        appendBio(person, ".velocityVortex");
+}
+
+for (var x = 1; x<people.length; x++) {
+    var person = people[x];
+    
+    if (resQTeam.includes(person.name))
+        appendBio(person, ".res-Q");
+}
 
 
 function appendBio(person, season){
@@ -332,8 +377,8 @@ function appendBio(person, season){
     Object.keys(person.personalAttributes).map(function(attributeName){
         personalAttributes += attributeName + ": " + person.personalAttributes[attributeName] + "<br>"
     })
-    div.innerHTML = '<h3>' + person.name + '</h3> ' + 
-                    '<img class="pic" src="' + person.imageUrl + '">' + 
+    div.innerHTML = '<img class="pic" src="' + person.imageUrl + '">' +
+                    '<h3 class="name">' + person.name + '</h3> ' +  
                     '<p>' + 
                     '    Team role: ' + person.role + '<br>' + 
                     '    Years in FIRST: ' + person.yearsInFirst + '<br>' + 

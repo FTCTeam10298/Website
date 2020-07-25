@@ -197,15 +197,27 @@ td > img {
     list-style: none;
 }
 
+.team {
+    display: inline;
+    max-width: 100%;
+    /* margin-bottom: 3%; */
+}
+
 .profile {
-    display: inline-block;
-    margin: 5%;
+    display: inline-table;
+    margin: 1%;
+    max-width: 19em;
 }
 
 .profile > .pic {
-    max-width: 20em;
-    max-height: 25em;
+    top: 0;
+    max-width: 90%;
+    max-height: 50% !important;
     scale: 1;
+}
+
+.profile > .name {
+    font-size: x-large;
 }
 
 .awards > img {
