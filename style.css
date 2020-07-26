@@ -34,7 +34,6 @@ body {
 }
 
 .navItem {
-    text-align: center;
     display: block;
     color: white;
     text-align: center;
@@ -249,12 +248,19 @@ td > img {
         text-align: center;
     }
 
+    .border {
+        border-right: solid 1px #ffffff; 
+        padding-right: 1em;
+    }
+
+    .icon {
+        max-width: 1em;
+    }
+
         .footer .copyright li {
-            border-left: solid 1px #ffffff;
             display: inline-block;
             list-style: none;
             margin-left: 1em;
-            padding-left: 1em;
         }
 
             .footer .copyright li:first-child {
