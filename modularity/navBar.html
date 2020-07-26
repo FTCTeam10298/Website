@@ -1,28 +1,31 @@
 <!-- Nav Bar -->
-<ul class="navBar robotech">
-    <ul class="left">
-        <li><a href="../"><img src="../images/logoWebsite.png"></a></li>
+<body onclick >
+    <ul class="navBar robotech">
+        <ul class="left">
+            <li><a href="../"><img src="../images/logoWebsite.png"></a></li>
+        </ul>
+        
+        <ul class="right">
+            <li class="dropdown">
+                <a class="dropdown navItem" id="target">Team</a>
+                <ul class="dropdownContent">
+                    <li><a class="navItem" href="../story/">Story</a></li>
+                    <li><a class="navItem" href="../awards/">Awards</a></li>
+                    <li><a class="navItem" href="../members/">Members</a></li>
+                    <li><a class="navItem" href="../tryouts/">Training/Tryouts</a></li>
+                </ul>
+            </li>
+            <li><a class="navItem" href="../robot/">Robot</a></li>
+            <li><a class="navItem" href="../sponsors/">Sponsors</a></li>
+            <li><a class="navItem" href="../outreach/">Outreach</a></li>
+            <li><a class="navItem" href="../blog/">Blog</a></li>
+            <li><a class="navItem" href="../about/">About</a></li>
+        </ul>
     </ul>
-    
-    <ul class="right">
-        <li class="dropdown">
-            <a class="dropdown navItem" id="target">Team</a>
-            <ul class="dropdownContent">
-                <li><a class="navItem" href="../story/">Story</a></li>
-                <li><a class="navItem" href="../awards/">Awards</a></li>
-                <li><a class="navItem" href="../members/">Members</a></li>
-                <li><a class="navItem" href="../tryouts/">Training/Tryouts</a></li>
-            </ul>
-        </li>
-        <li><a class="navItem" href="../robot/">Robot</a></li>
-        <li><a class="navItem" href="../sponsors/">Sponsors</a></li>
-        <li><a class="navItem" href="../outreach/">Outreach</a></li>
-        <li><a class="navItem" href="../blog/">Blog</a></li>
-        <li><a class="navItem" href="../about/">About</a></li>
-    </ul>
-</ul>
-<link rel="stylesheet" href="../modularity/mod.css" type="text/css">
-<style>
+    <link rel="stylesheet" href="../modularity/mod.css" type="text/css">
+</body>
+
+<!-- <style>
     .dropdown.hover {
         display: block;
     }
@@ -31,4 +34,4 @@
     $(document).on("ready", function () {
         $(".dropdown").eq(0).addClass('hover');
     }); 
-</script>
+</script> -->
