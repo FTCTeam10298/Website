@@ -78,19 +78,28 @@
                     display: none;
                     text-align: left;
                     list-style-type: none;
+                    transition: display 1s;
                 }
 
                     .dropdownContent > li {
                         margin-top: .8em;
                     }
 
-                .dropdown:hover .dropdownContent{
-                    display: block;
-                }
+                    .dropdown:hover .dropdownContent{
+                        display: block;
+                    }
+    
+                    .dropdownContent:hover{
+                        display: block;
+                    }
 
-                .dropdownContent:hover{
-                    display: block;
+            /* @media only screen and (max-width: 600px) {
+                body {
+                    background-color: lawngreen;
                 }
+            } */
+        
+
 
 
 .footer {
