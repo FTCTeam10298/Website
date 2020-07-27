@@ -34,9 +34,9 @@
             height: 3em;
         }
 
-        .left > li > a > img:hover, img:before {
-            background: rgba(155, 155, 155, 0.185);
-            border-radius: .7em;
+        .left > li > a > img:hover {
+            transition: filter 100ms linear;
+            filter: brightness(0.609);
         }
 
 
@@ -53,14 +53,15 @@
 
             .navItem {
                 top: 0;
-                margin: 0 .8em ;
+                margin: 0.8em ;
                 text-decoration: none;
                 color: white;
                 font-size: large;
             }
 
             .navItem:hover {
-            color: rgb(155, 155, 155);
+                transition: color 100ms linear;
+                color: rgb(155, 155, 155);
             }
 
             .dropdown {
@@ -73,24 +74,29 @@
                     box-shadow: 0px 10px 2px -2px rgba(0,0,0,0.2);;
                     border-radius: .5em;
                     overflow: hidden;
-                    padding: 2.175em 0 .875em;
+                    padding: 1.175em 0 .875em;
                     position: fixed;
-                    display: none;
                     text-align: left;
                     list-style-type: none;
-                    transition: display 1s;
+                    opacity: 0;
                 }
 
                     .dropdownContent > li {
                         margin-top: .8em;
                     }
 
-                    .dropdown:hover .dropdownContent{
-                        display: block;
+                    .dropdown:hover .dropdownContent {
+                        transition: max-height .3s ease-in-out;
+                        max-height: 100%;
+                        max-width: 100%;
+                        opacity: 100;
                     }
-    
-                    .dropdownContent:hover{
-                        display: block;
+
+                    .dropdownContent:not(hover) {
+                        transition: max-height .3s ease-in-out, max-width .5s .4s, opacity .1s linear .2s;
+                        max-height: 0%;
+                        opacity: 0;
+                        max-width: 0%;
                     }
 
             /* @media only screen and (max-width: 600px) {
@@ -99,8 +105,7 @@
                 }
             } */
         
-
-
+        
 
 .footer {
     margin: 0;

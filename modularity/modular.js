@@ -26,5 +26,8 @@ each(insertionPoints, function(insertionPoint){
     })
 });
 
+
+
+
 //<script src="templates.js"></script>
 //<div class="insertion-point" file="header.html" ></div>
