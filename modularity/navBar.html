@@ -5,20 +5,139 @@
     </ul>
     
     <ul class="right">
-        <li id="dropdown" class="dropdown">
-            <a id="dropdown" class="dropdown navItem">Team</a>
-            <ul id="dropdownContent" class="dropdownContent">
-                <li><a class="navItem" href="../story/">Story</a></li>
-                <li><a class="navItem" href="../awards/">Awards</a></li>
-                <li><a class="navItem" href="../members/">Members</a></li>
-                <li><a class="navItem" href="../tryouts/">Training/Tryouts</a></li>
-            </ul>
-        </li>
-        <li><a class="navItem" href="../robot/">Robot</a></li>
-        <li><a class="navItem" href="../sponsors/">Sponsors</a></li>
-        <li><a class="navItem" href="../outreach/">Outreach</a></li>
-        <li><a class="navItem" href="../blog/">Blog</a></li>
-        <li><a class="navItem" href="../about/">About</a></li>
+        <a id="bar" class="bar" >&#9776;</a>
+        <ul id="menu" class="menu">
+            <li class="dropdown">
+                <a class="dropdown navItem">Team</a>
+                <ul class="dropdownContent">
+                    <li><a class="navItem" href="../story/">Story</a></li>
+                    <li><a class="navItem" href="../awards/">Awards</a></li>
+                    <li><a class="navItem" href="../members/">Members</a></li>
+                    <li><a class="navItem" href="../tryouts/">Training/Tryouts</a></li>
+                </ul>
+            </li>
+            <li><a class="navItem" href="../robot/">Robot</a></li>
+            <li><a class="navItem" href="../sponsors/">Sponsors</a></li>
+            <li><a class="navItem" href="../outreach/">Outreach</a></li>
+            <li><a class="navItem" href="../blog/">Blog</a></li>
+            <li><a class="navItem" href="../about/">About</a></li>
+        </ul>
     </ul>
 </ul>
 <link rel="stylesheet" href="../modularity/mod.css" type="text/css">
+
+<style>
+
+    @media only screen and (max-width: 900px) {
+
+            .right {
+                display: fixed;
+            }
+
+            .bar {
+                color: #fff;
+                display: block;
+                height: 100%;
+                right: 2em;
+                position: absolute;
+            }
+
+            .menu {            
+                list-style-type: none;
+                z-index: 3000;
+                top: 3.3em;
+                display: none;
+                position: absolute;
+                right: 0em;
+                background-color: #1334f0;
+                padding: 0 1em 1em;
+                border-radius: 1em;
+                /* padding-top: 1em; */
+            }
+            
+            .menu > li {
+                padding-top: 1em;
+            }
+
+            .dropdownContent {
+                text-align: left;
+                right: 7.5em;
+                top: 4.8em;
+                padding-top: 0;
+            }
+
+
+
+
+
+        /* body {
+            background-color: lawngreen;
+        } */
+    }
+
+    /* just for decoupleing small size from large */
+    @media only screen and (min-width: 901px) {
+        .right {
+            position: relative;
+            display: block;
+            float: right;
+            padding: 1em;
+            right: 0;
+            bottom: 0;
+        }
+
+        .bar {
+            display: none;
+        }
+
+        .menu {
+            list-style-type: none;
+            position: relative;
+            display: flex;
+            z-index: 3000;
+            right: 0;
+            top: 2px;
+            background-color: none;
+        }
+
+        .menu > li {
+            padding-top: 0em;
+        }
+    }
+
+</style>
+
+<script>
+    let menu = document.getElementById('menu');
+    let bar = document.getElementById("bar");
+
+    let tog = "flex"
+
+    bar.addEventListener("click", showMenu;
+
+    function showMenu() {
+
+        switch (tog) {
+            case("block"): tog = "none"; break;
+
+            default: tog = "block"; break;
+        }
+
+        menu.style.display = tog;
+
+    };
+
+    window.addEventListener("resize", function() {
+        console.log("change")
+
+        if (window.innerWidth >= 901) {
+            menu.style.display = "flex";
+            tog = "none";
+        } else {
+            menu.style.display = tog;
+        }
+
+    });
+
+
+</script>
