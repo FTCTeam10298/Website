@@ -80,6 +80,7 @@
                 text-align: left;
                 list-style-type: none;
                 opacity: 0;
+                transition: max-height 1s ease-in-out, max-width .1s .2s, opacity .5s linear .1.5s;
             }
 
                 .dropdownContent > li {
@@ -94,7 +95,7 @@
                 }
 
                 .dropdownContent:not(hover) {
-                    transition: max-height .3s ease-in-out, max-width .1s .2s, opacity .1s linear .1.5s;
+                    transition: max-height 1s ease-in-out, max-width .1s .2s, opacity .5s linear .1.5s;
                     max-height: 0%;
                     opacity: 0;
                     max-width: 0%;

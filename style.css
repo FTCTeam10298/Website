@@ -2,11 +2,11 @@
     font-family: 'montserrat';
     src: url('fonts/webfontkit-20200720-012313/montserrat-regular-webfont.woff');
 }
-
+/* 
 @font-face {
     font-family: 'Robotech GP';
     src: url('fonts/robotechGP/robotech_gp-webfont.woff');
-}
+} */
 
 body {
     margin:0;
