@@ -1,13 +1,15 @@
     let tog = "flex"
+    let menu = document.getElementById('menu');
+    let bar = document.getElementById("bar");
 
     function pullDom() {
+        menu = document.getElementById('menu');
+        bar = document.getElementById("bar");
         // let bar = document.querySelector('my-element');
-        let menu = document.getElementById('menu');
-        let bar = document.getElementById("bar");
     }
 
     while (menu == null || bar == null) {
-        setTimeout(pullDom, 300); // try again in 300 milliseconds
+        pullDom // try again in 300 milliseconds
     }
 
 
