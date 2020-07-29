@@ -14,9 +14,14 @@ body {
     background-color: #fff;
 }
 
+.navbar-root {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
 .text {
     padding: 15%;
-    padding-top: 6em;
 }
 
 h1 {
@@ -152,6 +157,7 @@ td > img {
 
 @media only screen and (max-width: 1023px) {
     .text {
-        padding: 10em 1em 1em 1em;
+        padding: 1em;
     }
 }
+
