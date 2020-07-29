@@ -155,8 +155,8 @@ td > img {
 
 @media only screen and (max-width: 1023px) {
     .text {
-        padding: 10% 15% 15% 15%;
+        transition: padding 3s linear;
+        padding: 5% 7% 7% 7%;
         /* padding: 1em; */
     }
 }
-
