@@ -37,6 +37,7 @@ img {
     align-items: center;
     justify-content: center;
     margin: 0;
+    margin-top: -4.5em;
     background-image: url("images/teamAtPit.jpg");
     background-size: cover;
     background-position: top center;
@@ -45,7 +46,7 @@ img {
     text-align: center;
     position: relative;
     z-index: -1;
-    height: calc(100vh - 4.5em);
+    height: 100vh;
 }
 
 .welcome:before {
