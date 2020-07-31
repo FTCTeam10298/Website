@@ -16,7 +16,7 @@ body {
 
 /* content */	
 .content {	
-    /* margin-top: 20px;	 */
+    margin-top: 73px;
 }	
 
 .text {
@@ -41,7 +41,7 @@ img {
     color: #ffffff;
     text-align: center;
     position: relative;
-    height: 100vh;
+    height: 96vh;
 }
 
 .welcome:before {
@@ -56,8 +56,7 @@ img {
 
 .welcome > .text {
     font-size: x-large;
-    margin: 0;
-    margin-bottom: 4%;
+    margin: 0 3% 12% 3%;
     background: #00000059;
     display: inline-block;
     border-radius: 20px;

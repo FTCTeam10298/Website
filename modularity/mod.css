@@ -12,7 +12,7 @@
     top: 0;
     width: 100%;
     margin: 0;
-    height: initial;
+    height: 57px;
     left: 0;
     padding: .5em 0 .5em 0;
     z-index: 200;
@@ -52,12 +52,19 @@
         /* display: flex; */
     }
     
+        .bar {
+            padding: 0;
+            margin: 0;
+            height: 100%;
+        }
+
         .navItem {
             top: 0;
             margin: 0.8em ;
             text-decoration: none;
             color: white;
             font-size: large;
+            z-index: 4000;
         }
 
         .navItem:hover {
@@ -101,7 +108,79 @@
                     max-width: 0%;
                 }
 
-        
+                
+@media only screen and (max-width: 900px) {
+
+    .right {
+        position: relative;
+    }
+
+        .bar {
+            color: #fff;
+            display: block;
+            right: 2em;
+            position: absolute;
+        }
+
+        .menu {            
+            list-style-type: none;
+            z-index: 3000;
+            top: 3.3em;
+            display: none;
+            position: absolute;
+            right: 0em;
+            background-color: #1334f0;
+            padding: 0 1em 1em;
+            border-bottom-left-radius: 1em;
+            padding-top: 1em;
+        }
+    
+            .menu > li {
+                padding-top: 1em;
+            }
+
+                .dropdownContent {
+                    z-index: 4000;
+                    text-align: left;
+                    right: 7.5em;
+                    top: 4.8em;
+                    padding-top: 0;
+                    /* position: relative; */
+                }
+}
+
+/* just for decoupleing small size from large */
+@media only screen and (min-width: 901px) {
+    .right {
+        position: relative;
+        display: block;
+        float: right;
+        padding: 1em;
+        right: 0;
+        bottom: 0;
+    }
+
+        .bar {
+            display: none;
+        }
+
+        .menu {
+            list-style-type: none;
+            position: relative;
+            display: flex;
+            z-index: 3000;
+            right: 0;
+            top: 2px;
+            background-color: none;
+        }
+
+            .menu > li {
+                padding-top: 0em;
+            }
+}
+
+
+
 
 .footer {
     margin: 0;
@@ -119,7 +198,7 @@
 
     .footer .copyright {
         color: #fff;
-        margin: 1em 0 0em 0;
+        margin: 1em 3% 0 3%;
         padding: 0em;
         text-align: center;
     }
