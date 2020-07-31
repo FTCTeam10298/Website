@@ -19,7 +19,7 @@
         console.log("change")
 
         if (window.innerWidth >= 901) {
-            menu.style.display = "block";
+            menu.style.display = "flex";
             tog = "none";
         } else {
             menu.style.display = tog;
