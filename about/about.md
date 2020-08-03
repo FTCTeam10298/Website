@@ -2,6 +2,8 @@
 ## heading
 ### heading
 
+![link to megaman](megaman.org)
+
 'Brain Stormz' is a private, non-profit robotics team competing in FIRST Tech Challenge (FTC). FIRST Tech Challenge is run by FIRST (For Inspiration and Recognition of Science and Technology), an organization seeking to spread knowledge of Science, Technology, Engineering, and Math (STEM) throughout the world.   
 
 In FTC, teams design a robot to complete tasks. A team will bring their robot to different tournaments, where they are randomly matched with one other team a their partner and two teams as opponents. Teams must work together with their partners to get more points than their opponent during the 2 1/2 minute match, thirty seconds pre-programmed (autonomous) and two minutes remote-controlled (tele-op). Each round the teams are matched with different teams, until the final round. The four teams with the most wins get to choose their partners for the final rounds.   
