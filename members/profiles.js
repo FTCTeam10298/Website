@@ -31,7 +31,7 @@ var people = [{
     personalAttributes:{
         "Age": "14",
         "Grade": "8th",
-        "Favorite food": "Soy yogurt",
+        "Favorite food": "Pho",
         },
     bio:'Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.',
     imageUrl:"images/profileAdrian.png"

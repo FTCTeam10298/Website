@@ -120,6 +120,7 @@
             display: block;
             right: 2em;
             position: absolute;
+            size: 100%;
         }
 
         .menu {            
@@ -137,6 +138,11 @@
     
             .menu > li {
                 padding-top: 1em;
+                size: 100px;
+            }
+
+            .navItem {
+                size: 50%;
             }
 
                 .dropdownContent {
