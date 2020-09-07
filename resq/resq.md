@@ -1,0 +1,110 @@
+## Robot
+
+#### Our Epic Robot- Metal Gear
+
+![yo](../images/pushBotVariation.jpg)
+
+##### 11/21/2015- Modified PushBot
+
+Our first design was a variation of PushBot, a basic robot built from instructions on the FIRST website. Key points are the wood base, the monstrous useless arm, and loose wheels that couldn't do much. We made no progress up the mountain with this one, for obvious reasons.
+
+![](images/sixWheeledMonstrosity.JPG)
+
+##### 12/3/2015- Six-Wheeled Monstrosity
+
+We had expected treads by this time, but they were back-ordered. This was our pitiful attempt at fixing that- two extra wheels. It was still too top heavy to make it onto the ramp. At least we held the electronics better with this one.
+
+![](images/miniBot.png)
+
+##### 12/13/2015- MiniBot
+
+We visited another team and got some better ideas about our design. After doing some planning, we took apart our old robot and created a new base- all metal, sturdy, and ready to add more attachments. The robot made it higher up the mountain than ever before, which was another indication that we needed balanced weight to succeed.
+
+![](images/theHeavyWeight.png)
+
+##### 12/16/2015- The Heavy-Weight
+
+We had our base; the next step was to add an arm that ran on rack-and-pinion. And so we did. But the design wasn't quite right yet... it was too heavy to make it up the mountain, and we weren't sure the arm would work even if we did. Another problem is that the wires got tangled up.
+
+![](images/treadBoss.jpg)
+
+##### 12/19/2015- Tread Boss
+
+We finally got our treads! We could make it part of the way up the mountain, but it always kept flipping over. We needed a better arm design... something that was strong enough to lift the robot, yet light and compact enough that it wouldn't hinder our mountain climbing. (Also notice the zip-ties keeping our wires together)
+
+![](images/theTumbler.JPG)
+
+##### 1/15/2016- Tread Boss v2.0 (Now climbs mountains!) A.K.A. The Tumbler
+
+We used a completely different method to climb up the mountain- a tape measure. It's strong, durable, light and slim, and (most importantly) it works! It's amazing! It also has two attachments for flipping switches, a bumper for pushing obstacles, two wheels in the back to help it get over the bars, and various stability improvements.
+
+##### 2/xx/2016- The Unicorn ResQer
+
+We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain.
+
+##### ?/??/2016- FutureBot
+
+And what's next for Metal Gear? We still could make a device to collect debris or work on sensors for a better autonomous. We could also use an arm to press the button on the rescue beacon. The possibilities are endless!
+
+## Story
+
+When September finally came around, the team was super excited. They were about to embark on another year of FTC and have another set of challenges to overcome. What could be better? After waiting in expectation all summer, Relic Recovery's reveal was a huge treat and the team immediately started brainstorming ways to approach it. Someone suggested we use something like a conveyor belt to move the glyphs from one side of the robot to the other, an idea that met with much approval. Further expanding this idea, we thought that it might be more efficient if we could just extend this conveyor belt from our robot to the cryptobox in order to place the glyphs directly where they need to go. We quickly found that we could easily use the drawer slides from last year's cap ball mechanism to work as an extending conveyor belt by simply stringing taut surgical tubing parallel to the slides between two axles controlled by a motor. However, this was still in the prototype phase when League Meet 0 approached, so we constructed a simple robot with a jewel arm and two glyph grabbers, one that only moves vertically, and another, also known as the "slam dunk claw", that pivoted in the middle, allowing it to reach both sides of our robot. With the addition of an autonomous program and driving practice, we did quite well at this first meet, in spite of our simplistic design and a few problems.
+
+Meet 1 soon followed, as did much improvement. We rebuilt our slam dunk claw so that it could hold two glyphs and spin them, in order to grab and deposit glyphs most efficiently. In addition, we realized that this claw worked much better at transporting glyphs over our robot than the clumsy prototype of a conveyor belt we had been working on, so we decided to continue using that and drop the conveyor idea. However, our prototyping was not over there; the relic arm remained. Thus, we redirected our focus to the creation of that mechanism, while still improving the claw arm. We have tried to make similar linear slide systems for three years now, so this year we were able to build off of our previous experiences to begin this mechanism.
+
+While this was going on, we were simultaneously developing our next chassis in CAD. We took this design to some professionals who graciously reviewed them and made some suggestions, which we gratefully accepted. This new chassis uses Mecanum wheels, allowing us to move in any direction without turning. It will also have room for Jewel arms cut in the sides, as well as removable top plates with the standard hole pattern cut in for easy access to the chained drive motors.
+
+Having all of these mechanisms still in development, we brought our new and improved claw to Meet 2, not sure of what to expect. Although our auto was a little rough, we ended up filling the first full Cryptobox in the region, exceeding everyone's (mostly ours) expectations! Our Christmas break was spent thinking of how amazing it was to fill that Crypto, and how we hope to do it again in Meet 3.
+
+The main change on our robot from Meets 2-3 was the thinning of the claws on the arm to allow us to more easily place glyphs in the box. However, we were far from unproductive during this time; we finished both our Relic mechanism and our chassis. Neither of them were competition ready, so they didn't end up on the robot. Instead, we used what we knew and went back, actually scoring the regional high score at the time, and ending up at the end of the league meets ranked 1st.
+
+After Meet 3, it was all hands on deck, full steam ahead on FutureBot, as this was the biggest gap of time between competitions that we would have for the rest of the season. The slam dunk arm was taken off of our old chassis and mounted onto the new, alongside our Relic mechanism. We also began working on a glyph intake mechanism that would facilitate the collection of glyphs into our claws using compliant wheels. We tested this mechanism at a scrimmage we hosted with several local teams, and found that it was shredding our glyphs, literally tearing them to pieces. We then made them flip down on plexiglass rods so that they would not tear the glyphs, and it was a huge improvement. Whereas before we were struggling to fill a Crypto without a pattern, we were now comfortably filling Cryptos with pattern consistently. We were prepared for ILTs, and ready to take the new competition by Stormz!
+
+
+## Story
+
+#### The End of FLL Year 2
+
+Brain Stormz began as a seven-member FLL team called the B.E.S.T. team (Building Excellent Structures Together). As we planned for our next year, we were faced with a challenge- two of our members were moving into high school, and more than half of our team members were done with FIRST programs. We had a difficult decision to make: Stay in FLL one more year now that we had more experience, or move on to the next level with less than half of our original team. As a team, we resolved to move on and face FTC. It wasn't a complete jump in the dark- one of our team members from BEST had been in a different FTC team before, and a friend from an engineering club joined our team for the FTC year. Our first meetings as a team were before we even knew what the challenge was. We planned, prepared, discussed, fundraised, and had a pool party!
+
+#### The Beginning of the Challenge
+
+Finally the long awaited day came. The six of us (four students, plus the coaches) traveled to the kickoff and were amazed at this new challenge. When we saw that our robot had to hang on a bar, we all exclaimed (inwardly or outwardly)- partially in shock, partially in worry, but mainly just because it would be really awesome when we accomplished that.
+
+The year started out with fundraising and business planning. We were diligent with it, but we were waiting expectantly for the robot parts. Raising money was an extremely slow process! We sent emails to about a hundred different robotics and engineering businesses and only got a couple replies- mainly, 'We would like more information' and 'We cannot give out sponsorships at this time'. And there was another issue! To receive many potential donations, we needed a nonprofit organization- something which we could not get easily.
+
+Our planning for the robot was pretty vague. We weren't sure what the new non-lego systems could do, or what wheels were best for getting up ramps, or what arm attachments could support a dangling robot.
+
+#### Working with the Robot
+
+After our Tetrix parts were received we immediately put our fundraising on hold to experiment with the robot. The first thing we built was PushBot (the five-minute bot that takes five hours to build), and we decided to use it as the base for our competition robot. That turned out to be a bad idea, but it was a start.
+
+After the initial experimentation was done, our team split its time and energy between fundraising, engineering notebook work, and work on the robot. Almost all of our meetings (except for the pool party) were at the DeVico's house in Camarillo, for a few reasons: 1. The house is at the midpoint of all our houses. 2. We met mainly at that house while we were an FLL team. 3. They were willing to use it!
+
+Most meetings work like this: We have approximate times for our members to arrive and leave. We decide what to work on- most of the time we just continue where we left off last meeting- and we split up to progress. The robot process went slowly- we completely destroyed our design and started from scratch halfway through the year. Even worse, the treads- the parts that we really needed- were back-ordered, and we weren't sure they would arrive in time. But we got them eventually, and we worked harder than ever to design a workable model before the competition. As we got closer and closer to the deadline, we became more determined.
+
+#### The Final Days
+
+Christmas Break was over. It was only a few weeks until the first competition- but our robot just would not work! What were missing? During the final days before the competition, our meetings got longer and longer- stretching from two meetings a week to three and then four! With one meeting, our members arrived a few hours after lunch and stayed till way after dinner- but we had to get everything done! This time was stressful, but we finally found the answer to making the robot work- using a tape measure to pull up our robot.
+
+#### The Qualification
+
+Finally, we arrived at the qualifying tournament. We set up our table, passed out some bracelets, and went scouting. We were in the first round of the day, and it was horrible. After driving for a while in autonomous, our robot lost connection and was completely frozen during driver control. Luckily for us, none of the other teams did much better and our alliance still managed to get first!
+
+Our team made it slowly through the day. Our robot performed spectacularly. Our whole team cheered when it pulled itself up on the bar time after time! Of course, there were always mistakes. The robot lost connection, or dropped a part, or got stuck. There was one extremely stressful moment when our driver was about to touch the top pole before the endgame! Luckily he realized just in time and we barely missed a huge penalty.
+
+Then it was time for alliance selection. We were in fifth, and the first four teams got to pick their alliance partner. Before the selection, our team had a private meeting outside. The question was- What alliance partner would be best for us? There was still a chance that we could pick, and it would tell us where to focus our scouting. We had decided that of all the other first place teams, 'the Ducks' would be best for us. They had a good record, and they were focused on collecting debris rather than doing a pull-up, meaning they would be a good compliment to us. So we went in and talked to the different first place teams- all the while looking at 'the Ducks'. Would they pick us? Or would we get stuck with a less-than-ideal team?
+
+When the time came, we choose Noah as our representative and sat in the stands with our fingers crossed. 'The Ducks' got to choose first. Their representative stepped up to the mic, gazed around the room, and announced, "Team #8471, 'The Ducks', graciously asks Team #10298, 'Brain Stormz,' to be their alliance partner."
+
+We were in! As soon as the ceremony was done, we hurried over to a table to begin strategy. We were nervous- 'The Ducks' were a veteran, victorious team, with about ten members and a record of huge awards- First Place Inspire, First Place Robotics Competition, they were the best of the best! And we were only a rookie team, with four guys, at our first ever tournament. What if our robot failed? What if we let this veteran team down? We would be lucky if any first place team ever picked us again!
+
+Our first round confirmed our fears. Our robot's connection glitched out again! 'The Ducks' were kind about it- they helped us fix our robot and gave us some suggestions for the next round. But we resolved not to make the same mistake again! We barely made it through the semifinals, and then the finals. The timer counted down, and our robot did it! We won the finals - we had won the tournament, and it was awesome! Besides the big win, we also got awards for 2nd Place Inspire (incidentally, 1st place went to 'the Ducks') and 1st Place Robot Design.
+
+#### The second qualifier
+
+We went to the next tournament with minimal changes to the robot, but with high hopes for placing high in the rankings. After many successful matches, we placed in the top 4 for the semifinals of the match. We decided, since we had already qualified the the regional competition at the last tournament, to bring along a rookie team who had not qualified yet, since we did not need to place in the top 8 in this match to move on. Unfortunately, this led to us being eliminated in the semifinals.
+
+#### Moving on to the regional competition
+
+Going into regionals, we had completely redesigned our robot lifter housing to use velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.
