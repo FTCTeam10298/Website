@@ -17,9 +17,9 @@
 
     hamburgerMenu.addEventListener("click", function() {
         hamburgerClick = true;
-    });
+    // });
 
-    window.addEventListener("click", function() {
+    // window.addEventListener("click", function() {
 
         if(hamburgerClick) {
 
