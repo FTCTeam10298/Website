@@ -76,7 +76,7 @@ We also plan to have a cap ball mechanism.  At first, we put this off because i
 
 ![](../images/capBallPlans.png)
 
--------------
+-----------------
 ## Story
 
 Brain Stormz began this year on a better foot.  Though one team member dropped out, four more people joined, so we started the season with seven robot-loving team members. In addition, last year's team members knew the programming language, were familiar with the robot parts, and worked to familiarize the new team members with the ins and outs of FTC and robots. Overall, we were off to a great start.
