@@ -17,6 +17,9 @@
 
     function showMenu() {
         hamburgerClick = true;
+    // });
+
+    // window.addEventListener("click", function() {
 
         if(hamburgerClick) {
 
@@ -36,4 +39,4 @@
             menu.style.display = tog;
         }
         
-    };
+    });
