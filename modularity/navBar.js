@@ -1,9 +1,11 @@
     let tog = "none";
+    let hamburgerClick = false;
+
     function showMenu() {
+        hamburgerClick = true
+        console.log("Hamburger click");
 
         let menu = document.getElementById('menu');
-
-        console.log("click");
 
         switch (tog) {
             default: tog = "block"; break;
@@ -14,6 +16,15 @@
         menu.style.display = tog;
     };
 
+    window.addEventListener("click", function() {
+        console.log("click");
+        
+        if(!hamburgerClick) {
+            tog = "none";
+            menu.style.display = tog;
+        }
+        hamburgerClick = false;
+    });
 
     window.addEventListener("resize", function() {
         console.log("change")
