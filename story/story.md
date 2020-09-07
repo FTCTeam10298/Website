@@ -1,3 +1,3 @@
-## 2018-2019
+# The Story of Brain Stormz
 
-## 2019-2020
+Brain Stormz began as a seven-member FLL team called the B.E.S.T. team (Building Excellent Structures Together). As we planned for our next year, we were faced with a challenge- two of our members were moving into high school, and more than half of our team members were done with FIRST programs. We had a difficult decision to make: Stay in FLL one more year now that we had more experience, or move on to the next level with less than half of our original team. As a team, we resolved to move on and face FTC. It wasn't a complete jump in the dark- one of our team members from BEST had been in a different FTC team before, and a friend from an engineering club joined our team for the FTC year. Our first meetings as a team were before we even knew what the challenge was. We planned, prepared, discussed, fundraised, and had a pool party!

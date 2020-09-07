@@ -1,66 +1,51 @@
-## Robot
+## Our Epic Robot- Metal Gear
 
-#### Our Epic Robot- Metal Gear
+![](../images/pushBotVariation.jpg)
 
-![yo](../images/pushBotVariation.jpg)
 
-##### 11/21/2015- Modified PushBot
+#### 11/21/2015- Modified PushBot
 
 Our first design was a variation of PushBot, a basic robot built from instructions on the FIRST website. Key points are the wood base, the monstrous useless arm, and loose wheels that couldn't do much. We made no progress up the mountain with this one, for obvious reasons.
 
-![](images/sixWheeledMonstrosity.JPG)
+![](../images/sixWheeledMonstrosity.JPG)
 
-##### 12/3/2015- Six-Wheeled Monstrosity
+#### 12/3/2015- Six-Wheeled Monstrosity
 
 We had expected treads by this time, but they were back-ordered. This was our pitiful attempt at fixing that- two extra wheels. It was still too top heavy to make it onto the ramp. At least we held the electronics better with this one.
 
-![](images/miniBot.png)
+![](../images/miniBot.png)
 
-##### 12/13/2015- MiniBot
+#### 12/13/2015- MiniBot
 
 We visited another team and got some better ideas about our design. After doing some planning, we took apart our old robot and created a new base- all metal, sturdy, and ready to add more attachments. The robot made it higher up the mountain than ever before, which was another indication that we needed balanced weight to succeed.
 
-![](images/theHeavyWeight.png)
+![](../images/theHeavyWeight.png)
 
-##### 12/16/2015- The Heavy-Weight
+#### 12/16/2015- The Heavy-Weight
 
 We had our base; the next step was to add an arm that ran on rack-and-pinion. And so we did. But the design wasn't quite right yet... it was too heavy to make it up the mountain, and we weren't sure the arm would work even if we did. Another problem is that the wires got tangled up.
 
-![](images/treadBoss.jpg)
+![](../images/treadBoss.jpg)
 
-##### 12/19/2015- Tread Boss
+#### 12/19/2015- Tread Boss
 
 We finally got our treads! We could make it part of the way up the mountain, but it always kept flipping over. We needed a better arm design... something that was strong enough to lift the robot, yet light and compact enough that it wouldn't hinder our mountain climbing. (Also notice the zip-ties keeping our wires together)
 
-![](images/theTumbler.JPG)
+![](../images/theTumbler.JPG)
 
-##### 1/15/2016- Tread Boss v2.0 (Now climbs mountains!) A.K.A. The Tumbler
+#### 1/15/2016- Tread Boss v2.0 (Now climbs mountains!) A.K.A. The Tumbler
 
 We used a completely different method to climb up the mountain- a tape measure. It's strong, durable, light and slim, and (most importantly) it works! It's amazing! It also has two attachments for flipping switches, a bumper for pushing obstacles, two wheels in the back to help it get over the bars, and various stability improvements.
 
-##### 2/xx/2016- The Unicorn ResQer
+#### 2/xx/2016- The Unicorn ResQer
 
 We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain.
 
-##### ?/??/2016- FutureBot
+#### ?/??/2016- FutureBot
 
 And what's next for Metal Gear? We still could make a device to collect debris or work on sensors for a better autonomous. We could also use an arm to press the button on the rescue beacon. The possibilities are endless!
 
-## Story
-
-When September finally came around, the team was super excited. They were about to embark on another year of FTC and have another set of challenges to overcome. What could be better? After waiting in expectation all summer, Relic Recovery's reveal was a huge treat and the team immediately started brainstorming ways to approach it. Someone suggested we use something like a conveyor belt to move the glyphs from one side of the robot to the other, an idea that met with much approval. Further expanding this idea, we thought that it might be more efficient if we could just extend this conveyor belt from our robot to the cryptobox in order to place the glyphs directly where they need to go. We quickly found that we could easily use the drawer slides from last year's cap ball mechanism to work as an extending conveyor belt by simply stringing taut surgical tubing parallel to the slides between two axles controlled by a motor. However, this was still in the prototype phase when League Meet 0 approached, so we constructed a simple robot with a jewel arm and two glyph grabbers, one that only moves vertically, and another, also known as the "slam dunk claw", that pivoted in the middle, allowing it to reach both sides of our robot. With the addition of an autonomous program and driving practice, we did quite well at this first meet, in spite of our simplistic design and a few problems.
-
-Meet 1 soon followed, as did much improvement. We rebuilt our slam dunk claw so that it could hold two glyphs and spin them, in order to grab and deposit glyphs most efficiently. In addition, we realized that this claw worked much better at transporting glyphs over our robot than the clumsy prototype of a conveyor belt we had been working on, so we decided to continue using that and drop the conveyor idea. However, our prototyping was not over there; the relic arm remained. Thus, we redirected our focus to the creation of that mechanism, while still improving the claw arm. We have tried to make similar linear slide systems for three years now, so this year we were able to build off of our previous experiences to begin this mechanism.
-
-While this was going on, we were simultaneously developing our next chassis in CAD. We took this design to some professionals who graciously reviewed them and made some suggestions, which we gratefully accepted. This new chassis uses Mecanum wheels, allowing us to move in any direction without turning. It will also have room for Jewel arms cut in the sides, as well as removable top plates with the standard hole pattern cut in for easy access to the chained drive motors.
-
-Having all of these mechanisms still in development, we brought our new and improved claw to Meet 2, not sure of what to expect. Although our auto was a little rough, we ended up filling the first full Cryptobox in the region, exceeding everyone's (mostly ours) expectations! Our Christmas break was spent thinking of how amazing it was to fill that Crypto, and how we hope to do it again in Meet 3.
-
-The main change on our robot from Meets 2-3 was the thinning of the claws on the arm to allow us to more easily place glyphs in the box. However, we were far from unproductive during this time; we finished both our Relic mechanism and our chassis. Neither of them were competition ready, so they didn't end up on the robot. Instead, we used what we knew and went back, actually scoring the regional high score at the time, and ending up at the end of the league meets ranked 1st.
-
-After Meet 3, it was all hands on deck, full steam ahead on FutureBot, as this was the biggest gap of time between competitions that we would have for the rest of the season. The slam dunk arm was taken off of our old chassis and mounted onto the new, alongside our Relic mechanism. We also began working on a glyph intake mechanism that would facilitate the collection of glyphs into our claws using compliant wheels. We tested this mechanism at a scrimmage we hosted with several local teams, and found that it was shredding our glyphs, literally tearing them to pieces. We then made them flip down on plexiglass rods so that they would not tear the glyphs, and it was a huge improvement. Whereas before we were struggling to fill a Crypto without a pattern, we were now comfortably filling Cryptos with pattern consistently. We were prepared for ILTs, and ready to take the new competition by Stormz!
-
-
+------------
 ## Story
 
 #### The End of FLL Year 2
