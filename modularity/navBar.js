@@ -16,7 +16,7 @@
         menu.style.display = tog;
     };
 
-    window.addEventListener("click", function() {
+    document.addEventListener("click", function() {
         console.log("click");
         
         if(innerWidth <= 900) {
