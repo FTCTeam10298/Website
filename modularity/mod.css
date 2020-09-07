@@ -147,10 +147,11 @@
             }
 
                 .dropdownContent {
+                    margin-top: -1.6em;
                     z-index: 4000;
                     text-align: left;
                     right: 7.5em;
-                    top: 4.8em;
+                    top: initial;
                     padding-top: 0;
                     /* position: relative; */
                 }
