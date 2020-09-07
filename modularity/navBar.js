@@ -19,11 +19,13 @@
     window.addEventListener("click", function() {
         console.log("click");
         
-        if(!hamburgerClick) {
-            tog = "none";
-            menu.style.display = tog;
+        if(innerWidth <= 900) {
+            if(!hamburgerClick) {
+                tog = "none";
+                menu.style.display = tog;
+            }
+            hamburgerClick = false;
         }
-        hamburgerClick = false;
     });
 
     window.addEventListener("resize", function() {
