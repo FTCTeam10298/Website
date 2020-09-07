@@ -15,7 +15,7 @@
 
     });
 
-    hamburgerMenu.addEventListener("click", function() {
+    function showMenu() {
         hamburgerClick = true;
     // });
 
