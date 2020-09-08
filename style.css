@@ -127,10 +127,18 @@ td > img {
     /* margin-bottom: 3%; */
 }
 
+.profiles {
+    /* overflow: hidden;     */
+    display: flex;
+    /* margin: auto; */
+    /* position: absolute; */
+}
+
 .profile {
-    display: inline-table;
-    margin: 1%;
-    max-width: 19em;
+    /* display: flex;
+    margin: auto; */
+    /* max-width: 19em; */
+    /* mask-repeat: repeat-x; */
 }
 
 .profile > .pic {
