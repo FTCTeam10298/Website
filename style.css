@@ -127,20 +127,10 @@ td > img {
     /* margin-bottom: 3%; */
 }
 
-.carousel::before {
-    overflow: auto;
-}
-
-.carousel {
-    display: block;
-    position: absolute;
-    height: auto;
-    overflow: hidden;
-}
-
 .profile {
-    position: absolute;
-    /* background-color: #fff; */
+    display: inline-table;
+    margin: 1%;
+    max-width: 19em;
 }
 
 .profile > .pic {
