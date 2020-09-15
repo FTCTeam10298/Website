@@ -11,12 +11,12 @@
 body {
     margin:0;
     font-family: 'montserrat';
-    /* background-color: #1334f0; */
+    background-color: #1334f0;
 }
 
 /* content */	
 .content {	
-    /* background-color: #ffffff; */
+    background-color: #ffffff;
     margin-top: 73px;
     min-height: calc(100vh - 116px - 73px);
 }	
@@ -67,7 +67,7 @@ img {
 
 .framedContent {
     margin: 0;
-    margin: 5% 10%;
+    padding: 5% 10%;
     display: flex;
 }
 
