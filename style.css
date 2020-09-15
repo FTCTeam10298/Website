@@ -11,11 +11,12 @@
 body {
     margin:0;
     font-family: 'montserrat';
-    background-color: #fff;
+    /* background-color: #1334f0; */
 }
 
 /* content */	
 .content {	
+    /* background-color: #ffffff; */
     margin-top: 73px;
     min-height: calc(100vh - 116px - 73px);
 }	
