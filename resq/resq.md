@@ -1,53 +1,3 @@
-## Our Epic Robot- Metal Gear
-
-![](../images/pushBotVariation.jpg)
-
-
-#### 11/21/2015- Modified PushBot
-
-Our first design was a variation of PushBot, a basic robot built from instructions on the FIRST website. Key points are the wood base, the monstrous useless arm, and loose wheels that couldn't do much. We made no progress up the mountain with this one, for obvious reasons.
-
-![](../images/sixWheeledMonstrosity.JPG)
-
-#### 12/3/2015- Six-Wheeled Monstrosity
-
-We had expected treads by this time, but they were back-ordered. This was our pitiful attempt at fixing that- two extra wheels. It was still too top heavy to make it onto the ramp. At least we held the electronics better with this one.
-
-![](../images/miniBot.png)
-
-#### 12/13/2015- MiniBot
-
-We visited another team and got some better ideas about our design. After doing some planning, we took apart our old robot and created a new base- all metal, sturdy, and ready to add more attachments. The robot made it higher up the mountain than ever before, which was another indication that we needed balanced weight to succeed.
-
-![](../images/theHeavyWeight.png)
-
-#### 12/16/2015- The Heavy-Weight
-
-We had our base; the next step was to add an arm that ran on rack-and-pinion. And so we did. But the design wasn't quite right yet... it was too heavy to make it up the mountain, and we weren't sure the arm would work even if we did. Another problem is that the wires got tangled up.
-
-![](../images/treadBoss.jpg)
-
-#### 12/19/2015- Tread Boss
-
-We finally got our treads! We could make it part of the way up the mountain, but it always kept flipping over. We needed a better arm design... something that was strong enough to lift the robot, yet light and compact enough that it wouldn't hinder our mountain climbing. (Also notice the zip-ties keeping our wires together)
-
-![](../images/theTumbler.JPG)
-
-#### 1/15/2016- Tread Boss v2.0 (Now climbs mountains!) A.K.A. The Tumbler
-
-We used a completely different method to climb up the mountain- a tape measure. It's strong, durable, light and slim, and (most importantly) it works! It's amazing! It also has two attachments for flipping switches, a bumper for pushing obstacles, two wheels in the back to help it get over the bars, and various stability improvements.
-
-#### 2/xx/2016- The Unicorn ResQer
-
-We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain.
-
-#### ?/??/2016- FutureBot
-
-And what's next for Metal Gear? We still could make a device to collect debris or work on sensors for a better autonomous. We could also use an arm to press the button on the rescue beacon. The possibilities are endless!
-
-------------
-## Story
-
 #### The End of FLL Year 2
 
 Brain Stormz began as a seven-member FLL team called the B.E.S.T. team (Building Excellent Structures Together). As we planned for our next year, we were faced with a challenge- two of our members were moving into high school, and more than half of our team members were done with FIRST programs. We had a difficult decision to make: Stay in FLL one more year now that we had more experience, or move on to the next level with less than half of our original team. As a team, we resolved to move on and face FTC. It wasn't a complete jump in the dark- one of our team members from BEST had been in a different FTC team before, and a friend from an engineering club joined our team for the FTC year. Our first meetings as a team were before we even knew what the challenge was. We planned, prepared, discussed, fundraised, and had a pool party!
@@ -64,13 +14,31 @@ Our planning for the robot was pretty vague. We weren't sure what the new non-le
 
 After our Tetrix parts were received we immediately put our fundraising on hold to experiment with the robot. The first thing we built was PushBot (the five-minute bot that takes five hours to build), and we decided to use it as the base for our competition robot. That turned out to be a bad idea, but it was a start.
 
+| ![](../images/pushBotVariation.jpg) |
+|--|
+| 11/21/2015- Modified PushBot |
+| Our first design was a variation of PushBot, a basic robot built from instructions on the FIRST website. Key points are the wood base, the monstrous useless arm, and loose wheels that couldn't do much. We made no progress up the mountain with this one, for obvious reasons. |
+
 After the initial experimentation was done, our team split its time and energy between fundraising, engineering notebook work, and work on the robot. Almost all of our meetings (except for the pool party) were at the DeVico's house in Camarillo, for a few reasons: 1. The house is at the midpoint of all our houses. 2. We met mainly at that house while we were an FLL team. 3. They were willing to use it!
 
 Most meetings work like this: We have approximate times for our members to arrive and leave. We decide what to work on- most of the time we just continue where we left off last meeting- and we split up to progress. The robot process went slowly- we completely destroyed our design and started from scratch halfway through the year. Even worse, the treads- the parts that we really needed- were back-ordered, and we weren't sure they would arrive in time. But we got them eventually, and we worked harder than ever to design a workable model before the competition. As we got closer and closer to the deadline, we became more determined.
 
+| ![](../images/sixWheeledMonstrosity.JPG) | ![](../images/miniBot.png) |
+|--|--|
+| 12/3/2015- Six-Wheeled Monstrosity | 12/13/2015- MiniBot
+| We had expected treads by this time, but they were back-ordered. This was our pitiful attempt at fixing that- two extra wheels. It was still too top heavy to make it onto the ramp. At least we held the electronics better with this one. | We visited another team and got some better ideas about our design. After doing some planning, we took apart our old robot and created a new base- all metal, sturdy, and ready to add more attachments. The robot made it higher up the mountain than ever before, which was another indication that we needed balanced weight to succeed. |
+| ![](../images/theHeavyWeight.png) | ![](../images/treadBoss.jpg) |
+| 12/16/2015- The Heavy-Weight | 12/19/2015- Tread Boss |
+| We had our base; the next step was to add an arm that ran on rack-and-pinion. And so we did. But the design wasn't quite right yet... it was too heavy to make it up the mountain, and we weren't sure the arm would work even if we did. Another problem is that the wires got tangled up. | We finally got our treads! We could make it part of the way up the mountain, but it always kept flipping over. We needed a better arm design... something that was strong enough to lift the robot, yet light and compact enough that it wouldn't hinder our mountain climbing. (Also notice the zip-ties keeping our wires together) |
+
 #### The Final Days
 
 Christmas Break was over. It was only a few weeks until the first competition- but our robot just would not work! What were missing? During the final days before the competition, our meetings got longer and longer- stretching from two meetings a week to three and then four! With one meeting, our members arrived a few hours after lunch and stayed till way after dinner- but we had to get everything done! This time was stressful, but we finally found the answer to making the robot work- using a tape measure to pull up our robot.
+
+| ![](../images/theTumbler.JPG) |
+|--|
+| 1/15/2016- Tread Boss v2.0 (Now climbs mountains!) A.K.A. The Tumbler |
+| We used a completely different method to climb up the mountain- a tape measure. It's strong, durable, light and slim, and (most importantly) it works! It's amazing! It also has two attachments for flipping switches, a bumper for pushing obstacles, two wheels in the back to help it get over the bars, and various stability improvements. |
 
 #### The Qualification
 
@@ -92,4 +60,8 @@ We went to the next tournament with minimal changes to the robot, but with high 
 
 #### Moving on to the regional competition
 
-Going into regionals, we had completely redesigned our robot lifter housing to use velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.
+| 2/xx/2016- The Unicorn ResQer |
+|--|
+| We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain. |
+
+Going into regionals, we had completely redesigned our robot lifter housing to use Velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.  All in all though, this was an amazing first season as an FTC team!
