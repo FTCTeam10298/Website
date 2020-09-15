@@ -17,10 +17,11 @@ body {
 /* content */	
 .content {	
     margin-top: 73px;
+    min-height: calc(100vh - 116px - 73px);
 }	
 
 .text {
-    padding: 10% 15% 15% 15%;
+    padding: 5% 15% 5% 15%;
 }
 
 img {
