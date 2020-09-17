@@ -4,7 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
-        <!-- <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
@@ -19,67 +19,25 @@
             <!-- text -->
             <div class="text">
 
-                <h1>Sponsors</h1>
-                <p>We are so thankful to our sponsors and donors throughout the years!&nbsp; If you are interested in becoming one, please contact us through our email at <a href="mailto:ftc10298@gmail.com" target="_blank">ftc10298@gmail.com</a>.</p>
-                
-                <div class="sponsors">
-                <div id="markdown-content"></div>
-                <script>
-                    function get(url, onResult){
-                        function reqListener () {
-                            onResult(this.responseText);
+                    <div id="markdown-content"></div>
+                    <script>
+                        function get(url, onResult){
+                            function reqListener () {
+                                onResult(this.responseText);
+                            }
+        
+                            var oReq = new XMLHttpRequest();
+                            oReq.addEventListener("load", reqListener);
+                            oReq.open("GET", url);
+                            oReq.send();
                         }
-
-                        var oReq = new XMLHttpRequest();
-                        oReq.addEventListener("load", reqListener);
-                        oReq.open("GET", url);
-                        oReq.send();
-                    }
-
-                    get("sponsors.md", function(text){
-
-                        var contentHolder = document.getElementById('markdown-content')
-                        contentHolder.innerHTML = marked(text);
-                    })
-                </script>
-                </div>
-
-                <h1>2017-18</h1>
-
-                <hr>
-                <br>
-
-                <ul class="sponsors">
-                    <li><a href="http://www.postageone.com" target="_blank" rel="noopener"> <img src="../images/poastageOne.jpg"> </a></li>
-                    <li><h3>Scott Family Foundation</h3></li>
-                    <li><img src="../images/arconicFoundation.jpg"></li>
-                    <li><img src="../images/medtronic.png"></li>
-                </ul>
-
-                <h3></h3>
-                <h1>2016-17</h1>
-                <hr>
-                
-                <ul class="sponsors">
-                    <li><img src="../images/inphiLogo.png"></li>
-                    <li><a href="http://ghaasfoundation.org/"><img src="../images/geneHaasFoundation.jpg"></a></li>
-                    <li><a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a></li>
-                    <li><a href="http://www.alcoa.com/foundation/en/default.asp"><img src="https://i1.wp.com/imr.osu.edu/files/2011/06/Alcoa-Foundation-logo.gif"></a></li>
-                    <li><a href="http://www.rockwellcollins.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Rockwell_Collins_logo.svg"></a></li>
-                    <li><a href="http://www.postageone.com"><img src="../images/poastageOne.jpg"></a></li>
-                </ul>
-            
-                <h1>2015-16</h1>
-                <hr>
-
-                <ul class="sponsors">
-                    <li><a href="https://web.archive.org/web/20161024030514/http://www.calmation.com/"><img src="../images/calmationLogo.png"></a></li>
-                    <li><a href="http://www.gpusa-ca.com/"><img src="../images/gpUSA.png"></a></li>
-                    <li><a href="http://www.kavlico.com"><img src="../images/kavlicoLogo.png"></a></li>
-                    <li><a href="http://www.arrowgrafixsupply.com/"><img src="../images/arrowLogo.jpg"></a></li>
-                    <li><a href="http://www.postageone.com"><img src="../images/poastageOne.jpg"></a></li>
-                    <li><a href="http://eds.ieee.org/"><img src="https://eds.ieee.org/images/files/template/ieee-eds-banner-20111202.jpg" alt="IEEE Electron Devices Society"></a></li>
-                </ul>  
+        
+                        get("sponsor.md", function(text){
+        
+                            var contentHolder = document.getElementById('markdown-content')
+                            contentHolder.innerHTML = marked(text);
+                        })
+                    </script>
             </div>
 
 

@@ -67,3 +67,17 @@ We went to the next tournament with minimal changes to the robot, but with high 
 | We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain. |
 
 Going into regionals, we had completely redesigned our robot lifter housing to use Velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.  All in all though, this was an amazing first season as an FTC team!
+
+## Sponsors:
+
+<a href="https://web.archive.org/web/20161024030514/http://www.calmation.com/"><img src="../images/calmationLogo.png"></a>
+
+<a href="http://www.gpusa-ca.com/"><img src="../images/gpUSA.png"></a>
+
+<a href="http://www.kavlico.com"><img src="../images/kavlicoLogo.png"></a>
+
+<a href="http://www.arrowgrafixsupply.com/"><img src="../images/arrowLogo.jpg"></a>
+
+<a href="http://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
+
+<a href="http://eds.ieee.org/"><img src="" alt="IEEE Electron Devices Society"></a>

@@ -28,3 +28,15 @@ The main change on our robot from Meets 2-3 was the thinning of the claws on the
 
 After Meet 3, it was all hands on deck, full steam ahead on FutureBot, as this was the biggest gap of time between competitions that we would have for the rest of the season. The slam dunk arm was taken off of our old chassis and mounted onto the new, alongside our Relic mechanism. We also began working on a glyph intake mechanism that would facilitate the collection of glyphs into our claws using compliant wheels. We tested this mechanism at a scrimmage we hosted with several local teams, and found that it was shredding our glyphs, literally tearing them to pieces. We then made them flip down on plexiglass rods so that they would not tear the glyphs, and it was a huge improvement. Whereas before we were struggling to fill a Crypto without a pattern, we were now comfortably filling Cryptos with pattern consistently. We were prepared for ILTs, and ready to take the new competition by Stormz!
 
+
+
+
+## Sponsors:
+
+<a href="http://www.postageone.com" target="_blank" rel="noopener"> <img src="../images/poastageOne.jpg"> </a>
+
+<h3>Scott Family Foundation</h3>
+
+<img src="../images/arconicFoundation.jpg">
+
+<img src="../images/medtronic.png">

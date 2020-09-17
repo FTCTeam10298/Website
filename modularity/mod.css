@@ -201,15 +201,15 @@
     display: block;
 }
 
-    .footer a {
-        color: inherit;
-    }
-
     .footer .copyright {
         color: #fff;
         margin: 1em 3% 0 3%;
         padding: 0em;
         text-align: center;
+    }
+
+    .footer a {
+        color: inherit;
     }
 
     .border {
