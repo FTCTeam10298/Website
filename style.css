@@ -126,20 +126,16 @@ td > img {
     object-fit: contain;
 }
 
-.sponsors {
-    display: block;
+.sponsors > a {
+    margin-right: 100%
 }
 
-.sponsors > li {
-    padding: 2%;
-    max-width: 50%;
-    list-style: none;
+.bigB > a > img{
+    max-width: 60%;
 }
 
-.sponsors > #markdown-content > ul > li {
-    padding: 2%;
-    max-width: 50%;
-    list-style: none;
+.friends > a > img{
+    max-width: 40%;
 }
 
 .team {

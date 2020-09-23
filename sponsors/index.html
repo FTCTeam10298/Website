@@ -19,28 +19,45 @@
             <!-- text -->
             <div class="text">
 
-                    <div id="markdown-content"></div>
-                    <script>
-                        function get(url, onResult){
-                            function reqListener () {
-                                onResult(this.responseText);
-                            }
-        
-                            var oReq = new XMLHttpRequest();
-                            oReq.addEventListener("load", reqListener);
-                            oReq.open("GET", url);
-                            oReq.send();
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
                         }
-        
-                        get("sponsor.md", function(text){
-        
-                            var contentHolder = document.getElementById('markdown-content')
-                            contentHolder.innerHTML = marked(text);
-                        })
-                    </script>
+    
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
+    
+                    get("sponsor.md", function(text){
+    
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
+
+
+                <div class="bigB sponsors">
+                    <h2>Big Brain Sponsors</h2>
+
+                    <a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a>
+                    <a href="https://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
+
+                </div>
+                <hr>
+
+                <div class="friends sponsors">
+                    <h2>Brain Stormz Friends</h2>
+
+                    <a href="https://www.revrobotics.com"><img src="../images/rev_logo.png"></a>
+
+                </div>
+                <hr>
+
             </div>
-
-
         </div>
         <!-- footer -->
         <div class="insertion-point" file="../modularity/footer.html" ></div>
