@@ -7,7 +7,7 @@
 .navBar {
     list-style-type: none;
     background-color: #1334f0;
-    /* background-color: #66000000; */
+    /* background-color: rgba(19, 52, 240, .70); */
     position: fixed;
     top: 0;
     width: 100%;
