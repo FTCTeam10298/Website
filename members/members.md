@@ -7,6 +7,7 @@ Grade: 12th
 Favorite Food: All of the above :)
 
 
+![](images\profileJames.png)
 ### James Penrose
 
 Team role: Coder, Builder
@@ -18,6 +19,7 @@ Favorite food: Korean BBQ
 James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer.
 
 
+![](images\profileAdrian.png)
 ### Adrian (AJ) Flores Jr.
 
 Team role: Builder, Coder
@@ -28,6 +30,8 @@ Favorite food: Pho
 
 Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.
 
+
+![](images\profileStu.jpg)
 ### Stu Penrose
 
 Team role: Head Coach
