@@ -40,3 +40,51 @@ Favorite Food: saganaki
 
 A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
 Learn more about Stu at stu.penrose.us
+
+
+### Luke Shawty
+
+Team role: Builder, robot designer
+Year in FIRST: 4
+Grade: 10
+Age: 15
+Favorite Food: Not salad ;)
+
+### Garrett Smalley
+
+Team role: Mentor
+Years in FIRST: 15
+Age: 25
+
+Garret is a mechanical engineer, and mentors us in mechanical design, fabrication, and CAD.
+
+  
+### Jacob Newman
+
+Team role: Building and programming mentor
+Years in FIRST: 3
+Age: 18
+Grade: 12th
+Favorite food: Soy yogurt
+
+Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob's PC Tune-Up.  When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.
+
+  
+### Jeff DeVico
+
+Team role: Coach
+Years in FIRST: 5
+Age: 51
+Favorite food: Fondue
+
+Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.
+
+  
+### Sung Choi
+
+Team role: Coach
+Years in FIRST: 6
+Age: 49
+Favorite food: Asian Confusion
+
+Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
