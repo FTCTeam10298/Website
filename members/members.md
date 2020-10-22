@@ -88,3 +88,13 @@ Age: 49
 Favorite food: Asian Confusion
 
 Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
+
+
+### Gabriel Fergesen 
+
+Team role: Coder
+Years in FIRST: This is my FIRST year (uwu)
+Age: 14
+Favorite food: everything, but I hate tomatoes and condiments, and LOVE asian/big juicy steaks/Indian food.
+
+Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll make the best of it (although he's a little nervous). He has repeatedly dabbled in code, Neural Networks, and Python ever since his science fair project in 7th Grade. He just wants to know enough code to make odd things involving art, 3D printing, and social game design, but has ended up writing a novel, *Tales of Atlantis Six Vol. 1*, building robots, and a variety of other activities. Woe be to the person who questions Gabriel Fergesen about Portal, books, or Ingress Prime, as he loves to talk about his fandoms. (yes, he is indeed a nerd.) 
