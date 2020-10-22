@@ -1,3 +1,89 @@
+### Jacob Newman
+Team role: Building and programming mentor
+Years in FIRST: 3
+Age: 18
+Grade: 12th
+Favorite food: Soy yogurt
+
+Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob's PC Tune-Up.  When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.
+
+  
+### Jeff DeVico
+Team role: Coach
+Years in FIRST: 5
+Age: 51
+Favorite food: Fondue
+
+Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.
+
+  
+### Sung Choi
+Team role: Coach
+Years in FIRST: 6
+Age: 49
+Favorite food: Asian Confusion
+
+Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
+
+  
+### Daniel Peace
+Team role: Mentor
+Years in FIRST: 4
+Age: 19
+Favorite food: Fish and Chips
+
+Daniel Peace is 19 years old and has always been interested in robotics and machines. This is his fourth year in First Tech Challenge. He was one of Brain Stormz's founding members, and is now a mentor. When not helping with robots he enjoys playing basketball and volleyball, and he also plays piano.
+
+  
+### Noah Jeffery DeVico
+Team role: Robot Design/Building, Driver, CAD
+Years in FIRST: 7
+Age: 18
+Grade: 12th
+Favorite food: Burgers
+
+Noah has been involved in FIRST programs since 2013. This is Noah's fourth year on a FTC team, having completed two years prior of FLL with The B.E.S.T Team and being a founding member of the FTC team Brain Stormz. Noah is part of Trinity Pacific Christian School, which is a private school in Thousand Oaks, California. He is heavily involved in basketball at his school having played since he was ten. In his free time he likes to play his collection of vintage video games including a Sega Genesis and a Nintendo Entertainment System. Noah has liked Engineering since he was little having been a fan of Lego/Mindstorms since he was 7.
+
+  
+### Nathan Michael Choi
+Team role: Robot Design/Building, Programming, Rulebook Clarifier
+Years in FIRST: 7
+Age: 18
+Grade: 12th
+Favorite food: Shin Ramen
+
+Nathan Choi is a 16 year nerd who goes to Trinity Pacific School and is in his 6th year of FIRST competitions and 5th year of FTC. He was a member of FTC Trinity Crown Bots when he was a 6th grader. After that, he joined the FLL team, The B.E.S.T. Team. Nathan enjoys reading, playing with Legos, and playing video games. He is excited for Rover Ruckus, and is ready for a great season.
+
+  
+### David Modrovich
+Team role: Funding Administrator
+Years in FIRST: 4
+Age: 17
+Grade: 12th
+Favorite food: Enchiladas
+
+David is a senior at Trinity Pacific High School. He has been interested in FIRST ever since 8th grade, when he was a part of a FLL team with some other members of Brain Stormz. He is aspiring to become a District Attorney when he grows up, and perhaps pursue a career in politics from there. Also, he loves to debate and to participate in Mock Trial.
+
+  
+### Joshua Soto
+Team role: Robot Builder and Driver Coach
+Years in FIRST: 2
+Age: 14
+Grade: 9th
+Favorite food: Burritos
+
+Joshua is a freshman who attends Trinity Pacific Christian School. He became interested in FIRST when he attended a match as a guest with the 2015-2016 Brain Stormz team. He is currently on the Trinity Pacific basketball and volleyball team.
+
+  
+### Kimberly Sharp
+Team role: Robot Design/Builder
+Years in FIRST: 4
+Age: 17
+Grade: 12th
+Favorite food: Apple dumplings!
+
+Kimberly Sharp truly enjoys being on team Brain Stormz. She has been a part of FLL team B.E.S.T. team for two years before this and really loved it. However, in her 10th grade year she feared she had too large of a school load to take on the extra challenge of FTC, deciding not to be on the team. Last year, she came back, not because of a lighter school load, but because she missed it so much she is willing to risk overload in order to be on such a great team as Brain Stormz. She knows from experience that it is well worth it.
+-----------------------------------
 ## Robot
 
 Our robot has gone through many different software changes, designs, and redesigns, but through all of it our main strategy has stayed the same. At the beginning of our season we brainstormed what our strategy should be. We considered all of our flaws in last year's strategies and also the few scoring elements in this year's game, and its heavy focus on autonomous. Our strategy for TeleOp is to be good at all three components of this year's game. Considering there are only three ways to score we decided that it would be possible to design a robot that would be able to do everything well. We started with shooting, and once we finished making our shooting mechanism we added a beacon pusher. While adding all these we have kept in mind the fact that later in the season we will be adding a cap ball mechanism. Doing some of everything allows us to be compatible with all other teams, allowing both us and our alliance partner to perform as well as they can. However, at the beginning of the season we knew we would need something to carry us through to the regional tournament, our autonomous. For this year we bought a whole bunch of new sensors including a color sensor, ultrasonic sensor, and a light sensor. We used these to create a consistent, high scoring autonomous. In the first thirty seconds of a match we are able to shoot two "particles" (whiffle balls), hit two beacons to the correct color, and park on either the center or corner vortex, depending on what our partner does. Our autonomous program can consistently score 100 points without breaking a sweat.
