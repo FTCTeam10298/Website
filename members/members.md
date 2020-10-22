@@ -42,13 +42,16 @@ A life-long hardware & software engineering enthusiast with a passion for teachi
 Learn more about Stu at stu.penrose.us
 
 
-### Luke Shawty
+### Luke Schrodi
 
 Team role: Builder, robot designer
 Year in FIRST: 4
 Grade: 10
 Age: 15
 Favorite Food: Not salad ;)
+
+Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. The Thunder Chickens made it to regionals two years in a row and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. 
+In his free time, he enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also owns two custom built RC cars.
 
 ### Garrett Smalley
 
