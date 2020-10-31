@@ -4,7 +4,6 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
@@ -18,7 +17,7 @@
 
             <!-- text -->
             <div class="text">
-
+                
                 <div id="markdown-content"></div>
                 <script>
                     function get(url, onResult){
@@ -32,31 +31,13 @@
                         oReq.send();
                     }
     
-                    get("sponsor.md", function(text){
+                    get("members.md", function(text){
     
                         var contentHolder = document.getElementById('markdown-content')
                         contentHolder.innerHTML = marked(text);
                     })
                 </script>
-
-
-                <div class="bigB sponsors">
-                    <h2>Big Brain Sponsors</h2>
-
-                    <a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a>
-                    <a href="https://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
-
-                </div>
-                <hr>
-
-                <div class="friends sponsors">
-                    <h2>Brain Stormz Friends</h2>
-
-                    <a href="https://www.revrobotics.com"><img src="../images/rev_logo.png"></a>
-
-                </div>
-                <hr>
-
+              
             </div>
         </div>
         <!-- footer -->

@@ -25,6 +25,14 @@ body {
     padding: 5% 15% 5% 15%;
 }
 
+@media only screen and (max-width: 1023px) {
+    .text {
+        transition: padding 3s linear;
+        padding: 5% 7% 7% 7%;
+        /* padding: 1em; */
+    }
+}
+
 img {
     max-width: 100%;
 }
@@ -126,20 +134,45 @@ td > img {
     object-fit: contain;
 }
 
-.sponsors {
-    display: block;
+.sponsors > a {
+    margin-right: 100%
 }
 
-.sponsors > li {
-    padding: 2%;
-    max-width: 50%;
-    list-style: none;
+.bigB > a > img{
+    max-width: 60%;
 }
 
-.sponsors > #markdown-content > ul > li {
-    padding: 2%;
-    max-width: 50%;
-    list-style: none;
+.friends > a > img{
+    max-width: 40%;
+}
+
+.sponsor {
+
+    /* border:1px solid grey; */
+    display: inline-block;
+    margin:10px;
+    padding:10px;
+}
+.sponsor-logo-holder {
+
+    height: 100px;
+    width: 500px;
+    background-position: top 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.75);
+}
+
+.postageone-logo {
+    background-image: url('../images/poastageOne.jpg');
+    background-size: cover;
+}
+
+.solidworks-logo {
+    background-image: url('../images/solidWorksLogo.png');
+    background-size:contain;
 }
 
 .team {
@@ -171,12 +204,4 @@ td > img {
 
 #markdown-content > p > img {
     max-width: 30%;
-}
-
-@media only screen and (max-width: 1023px) {
-    .text {
-        transition: padding 3s linear;
-        padding: 5% 7% 7% 7%;
-        /* padding: 1em; */
-    }
 }

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html ontouchmove >
+    <head>
+        <title>Page Not Found Brain Stormz</title>
+        <link rel="shortcut icon" href="images/brainStormzFavicon.png" type="image/png">
+        <link rel="stylesheet" href="style.css" type="text/css"/>
+        <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+        <!-- nav bar -->
+        <div class="insertion-point" file="../modularity/navBar.html" ></div>
+        <script src="../modularity/modular.js"></script>
+        <script src="../modularity/navBar.js"></script>
+
+        <div class="content">
+            <div class="text">
+                <h1>404, Page Not Found!</h1>
+                <a onclick="goBack()">Go back</a>
+
+                <script>
+                    function goBack() {
+                    window.history.back();
+                    }
+                </script>
+            </div>
+        </div>
+        <!-- footer -->
+        <div class="insertion-point" file="../modularity/footer.html" ></div>
+        <script src="../modularity/modular.js"></script>
+    </body>
+</html>

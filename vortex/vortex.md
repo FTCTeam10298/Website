@@ -148,3 +148,21 @@ Between these two top tournaments was a hectic few weeks, which found our team m
 At Worlds, we endured both difficulty and success. Our first few matches were riddled with phone disconnects, other electronic problems, and issues with our drive train. This caused us to lose our first two matches, despite the opposing alliance having relatively low scores. It was a bad start to our last tournament. We did our best to fix our issues during the intense pressure of the competition. After fixing most of these issues, we won the rest of our qualification matches, even the one against Rednek Robotics, the future champions of the world!
 
 After the qualifications matches finished, we were ranked 7th in our division, the same rank we got at Supers. After much nail-biting, we were picked as the second pick of the 3rd seed alliance! Unfortunately, our alliance was just not strong enough to beat the 2nd seed alliance, who went on to become the world champions. All in all, it was an amazing experience, and we were excited by just well we had done, especially for a 2nd-year team!
+
+
+
+## Sponsors:
+
+
+<img src="../images/inphiLogo.png">
+
+<a href="http://ghaasfoundation.org/"><img src="../images/geneHaasFoundation.jpg"></a>
+
+<a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a>
+
+<a href="http://www.alcoa.com/foundation/en/default.asp"><img src="" alt="Alcoa Foundation"></a>
+
+<a href="http://www.rockwellcollins.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Rockwell_Collins_logo.svg"></a>
+
+<a href="http://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
+                
