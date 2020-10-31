@@ -42,13 +42,16 @@ A life-long hardware & software engineering enthusiast with a passion for teachi
 Learn more about Stu at stu.penrose.us
 
 
-### Luke Shawty
+### Luke Schrodi
 
 Team role: Builder, robot designer
 Year in FIRST: 4
 Grade: 10
 Age: 15
 Favorite Food: Not salad ;)
+
+Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds.He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
+
 
 ### Garrett Smalley
 
@@ -62,12 +65,11 @@ Garret is a mechanical engineer, and mentors us in mechanical design, fabricatio
 ### Jacob Newman
 
 Team role: Building and programming mentor
-Years in FIRST: 3
-Age: 18
-Grade: 12th
+Years in FIRST: 4
+Age: 20
 Favorite food: Soy yogurt
 
-Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob's PC Tune-Up.  When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.
+Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 5rd year involved with a FIRST team. When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much.
 
   
 ### Jeff DeVico
