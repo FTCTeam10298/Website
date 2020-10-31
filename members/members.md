@@ -53,17 +53,6 @@ Favorite food: American Food ie fried stuff
 Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. Other than robotics, he enjoys flying 5th scale, which is super huge, RC planes. 
 
 
-![](images\profileStu.jpg)
-### Stu Penrose
-
-Team role: Head Coach
-Years in FIRST: 3
-Favorite Food: saganaki
-
-A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
-Learn more about Stu at stu.penrose.us
-
-
 ### Luke Schrodi
 
 Team role: Builder, robot designer
@@ -74,7 +63,17 @@ Favorite Food: Not salad ;)
 
 Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
 
+![](images\profileStu.jpg)
+### Stu Penrose
 
+Team role: Head Coach
+Years in FIRST: 3
+Favorite Food: saganaki
+
+A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
+Learn more about Stu at stu.penrose.us
+
+![](images/profileGarrett.jpg)
 ### Garrett Smalley
 
 Team role: Mentor
@@ -83,7 +82,8 @@ Age: 27
 
 Garret is a mechanical engineer, and mentors us in mechanical design, fabrication, and CAD.
 
-  
+
+![](images/profileJacob.jpg)  
 ### Jacob Newman
 
 Team role: Building and programming mentor
@@ -93,7 +93,8 @@ Favorite food: Soy yogurt
 
 Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 5rd year involved with a FIRST team. When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much.
 
-  
+
+![](images/profileJeff.png)  
 ### Jeff DeVico
 
 Team role: Coach
@@ -103,7 +104,8 @@ Favorite food: Fondue
 
 Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.
 
-  
+
+![](images/profileSung.JPG)  
 ### Sung Choi
 
 Team role: Coach
