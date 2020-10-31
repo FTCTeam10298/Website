@@ -6,6 +6,9 @@ Age: 17
 Grade: 12th
 Favorite Food: All of the above :)
 
+While this is her first official year in FIRST, she has been involved through her brother (Luke Schrodi) for much longer than that. Her pre-official contributions include exciting things like desinging the team-logo for the Thunder Chickens or being a ref at an FLL regional competition. She also did the small things like bringing donuts to scrimmages, helping team member's with their project scripts, or making sure that every moment was captured with pictures and videos. Madeleine is thrilled to finally be an official team member and is excited to see what this year will hold.
+
+
 ### Gabriel Fergesen 
 
 Team role: Coder
@@ -38,6 +41,16 @@ Grade: 8th
 Favorite food: Pho
 
 Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.
+
+
+### Peter Zagnoli
+
+Team role: Builder
+Years in FIRST: 3
+Age: 14
+Favorite food: American Food ie fried stuff
+
+Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. Other than robotics, he enjoys flying 5th scale, which is super huge, RC planes. 
 
 
 ![](images\profileStu.jpg)
@@ -100,12 +113,3 @@ Favorite food: Asian Confusion
 
 Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
 
-
-### Peter Zagnoli
-
-Team role: Builder
-Years in FIRST: 3
-Age: 14
-Favorite food: American Food ie fried stuff
-
-Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. Other than robotics, he enjoys flying 5th scale, which is super huge, RC planes. 
