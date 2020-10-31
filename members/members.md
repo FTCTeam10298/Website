@@ -6,6 +6,15 @@ Age: 17
 Grade: 12th
 Favorite Food: All of the above :)
 
+### Gabriel Fergesen 
+
+Team role: Coder
+Years in FIRST: This is my FIRST year (uwu)
+Age: 14
+Favorite food: everything, but I hate tomatoes and condiments, and LOVE asian/big juicy steaks/Indian food.
+
+Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll make the best of it (although he's a little nervous). He has repeatedly dabbled in code, Neural Networks, and Python ever since his science fair project in 7th Grade. He just wants to know enough code to make odd things involving art, 3D printing, and social game design, but has ended up writing a novel, *Tales of Atlantis Six Vol. 1*, building robots, and a variety of other activities. Woe be to the person who questions Gabriel Fergesen about Portal, books, or Ingress Prime, as he loves to talk about his fandoms. (yes, he is indeed a nerd.) 
+
 
 ![](images\profileJames.png)
 ### James Penrose
@@ -50,14 +59,14 @@ Grade: 10
 Age: 15
 Favorite Food: Not salad ;)
 
-Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds.He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
+Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
 
 
 ### Garrett Smalley
 
 Team role: Mentor
-Years in FIRST: 15
-Age: 25
+Years in FIRST: 17
+Age: 27
 
 Garret is a mechanical engineer, and mentors us in mechanical design, fabrication, and CAD.
 
@@ -86,17 +95,17 @@ Jeff has been coaching in FIRST for five years, and this is his third year coach
 
 Team role: Coach
 Years in FIRST: 6
-Age: 49
+Age: 50
 Favorite food: Asian Confusion
 
 Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
 
 
-### Gabriel Fergesen 
+### Peter Zagnoli
 
-Team role: Coder
-Years in FIRST: This is my FIRST year (uwu)
+Team role: Builder
+Years in FIRST: 3
 Age: 14
-Favorite food: everything, but I hate tomatoes and condiments, and LOVE asian/big juicy steaks/Indian food.
+Favorite food: American Food ie fried stuff
 
-Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll make the best of it (although he's a little nervous). He has repeatedly dabbled in code, Neural Networks, and Python ever since his science fair project in 7th Grade. He just wants to know enough code to make odd things involving art, 3D printing, and social game design, but has ended up writing a novel, *Tales of Atlantis Six Vol. 1*, building robots, and a variety of other activities. Woe be to the person who questions Gabriel Fergesen about Portal, books, or Ingress Prime, as he loves to talk about his fandoms. (yes, he is indeed a nerd.) 
+Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. 
