@@ -1,3 +1,14 @@
+### Teague Shepard
+
+Team Role: Builder
+Years in FIRST: 3
+Age: 15
+Grade: 9th
+Favorite Food: Sushi
+
+Bio: Recently, he has been "too busy with school" to write a bio :|   he was kind enough to promise that he will write it "later"
+
+
 ### Madeleine Schrodi
 
 Team Role: PR manager, website builder, and fundraiser
