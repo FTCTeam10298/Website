@@ -84,6 +84,14 @@ Favorite Food: saganaki
 A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
 Learn more about Stu at stu.penrose.us
 
+### Adrian Flores Sr.
+Team Role : Coach
+Years of First : 2
+Favorite food : Sushi
+
+Adrian has 20 years of experience as mechanical designer using Solidworks. He coached 2019 FLL team "Bricking the Limits", one of the teams that made it to regionals that year. Adrian enjoys spending time with his family at the beach, fishing, and kayaking. He also enjoys camping. 
+Adrian's main role in Brainstormz is being a mechanical design coach.
+
 ![](images/profileGarrett.jpg)
 ### Garrett Smalley
 
