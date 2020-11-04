@@ -1,9 +1,20 @@
-'Brain Stormz' is a private, non-profit robotics team competing in FIRST Tech Challenge (FTC). FIRST Tech Challenge is run by FIRST (For Inspiration and Recognition of Science and Technology), an organization seeking to spread knowledge of Science, Technology, Engineering, and Math (STEM) throughout the world.   
+### What is FIRST? 
+FIRST (For Inspiration and Recognition of Science and Technology) is a non-profit organization that seeks to inspire the younger generation in Science, Technology, Engineering, and Math (STEM). It accomplishes this by engaging kids in exciting, mentor-based research and robotics programs that will help them become science and technology leaders for the future. Not only does FIRST encourage participants in STEM, but it also places great emphasis on great core values such as gracious professionalism and cooperation, which foster well-rounded life and work skills. 
+To learn more about FIRST’s mission and impact, click [HERE](https://www.firstinspires.org/about/vision-and-mission)
 
-In FTC, teams design a robot to complete tasks. A team will bring their robot to different tournaments, where they are randomly matched with one other team a their partner and two teams as opponents. Teams must work together with their partners to get more points than their opponent during the 2 1/2 minute match, thirty seconds pre-programmed (autonomous) and two minutes remote-controlled (tele-op). Each round the teams are matched with different teams, until the final round. The four teams with the most wins get to choose their partners for the final rounds.   
 
-Our team is based in Ventura County. We hold all of our meetings in Camarillo, except for field trips and the occasional pool party. We are a homeschooled, community team, which makes it difficult to fundraise, as we can't get grants from a school board. FTC is quite expensive, so a big shout-out to our sponsors - we couldn't have done it without them!    
+### What is FTC?
+FTC (FIRST Tech Challenge) teams are challenged to design, build, program, and operate robots to compete in a head-to-head challenge. Teams must also raise funds, design, and market their team bra   nd, and do community outreach in order to earn specific awards. Participants are encouraged to bring any skills they already have, like coding, electronics, graphic design, web creation, public speaking, etc. Each season concludes with regional championship events and an exciting FIRST Championship. 
+For more information about FIRST Tech Challenge click [HERE](https://www.firstinspires.org/robotics/ftc)
 
-This year's challenge will be the most daunting yet, but we are up to the task! Check out this year's game here: [firstinspires.org/robotics/ftc/game-and-season](https://www.firstinspires.org/robotics/ftc/game-and-season).
 
-Want to see our progress through our season? Be sure to check our Outreach and Robot tabs, as we update them periodically with new events and prototypes.
+### Who are we?
+'Brain Stormz' is a private, non-profit robotics team competing in FIRST Tech Challenge (FTC). As a team, we strive to uphold FIRST’s core values. One of the values that we place the most focus on is “Gracious Professionalism”. With Gracious Professionalism, fierce competition and mutual gain are not separate notions. We allow our competition to drive us to do our best, but never so far as to degrade others. Another core value that we embrace is cooperation. When we talk about cooperation, we are not only referring to cooperation between team members and mentors, but it must include other FTC teams and our community. In past years, the emphasis we have placed on these values has earned us many awards and, most importantly, it has taught us how to become well-rounded, gracious professionals who are excited about our futures. 
+
+To get to know each of our members, check out the “Members” tab under “team”.
+
+To learn more about our team’s history and the awards we have earned, explore our “awards” and “history” tabs.
+
+This year's challenge will be the most daunting yet, but we are up to the task! Check out this year's game [HERE](https://www.firstinspires.org/robotics/ftc/game-and-season).
+
+

@@ -1,3 +1,14 @@
+### Teague Shepard
+
+Team Role: Builder
+Years in FIRST: 3
+Age: 15
+Grade: 9th
+Favorite Food: Sushi
+
+Bio: Recently, he has been "too busy with school" to write a bio :|   he was kind enough to promise that he will write it "later"
+
+
 ### Madeleine Schrodi
 
 Team Role: PR manager, website builder, and fundraiser
@@ -5,6 +16,18 @@ Years in FIRST: This is my first one!
 Age: 17
 Grade: 12th
 Favorite Food: All of the above :)
+
+While this is her first official year in FIRST, she has been involved through her brother (Luke Schrodi) for much longer than that. Her pre-official contributions include exciting things like desinging the team-logo for the Thunder Chickens or being a ref at an FLL regional competition. She also did the small things like bringing donuts to scrimmages, helping team member's with their project scripts, or making sure that every moment was captured with pictures and videos. Madeleine is thrilled to finally be an official team member and is excited to see what this year will hold.
+
+
+### Gabriel Fergesen 
+
+Team role: Coder
+Years in FIRST: This is my FIRST year (uwu)
+Age: 14
+Favorite food: everything, but I hate tomatoes and condiments, and LOVE asian/big juicy steaks/Indian food.
+
+Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll make the best of it (although he's a little nervous). He has repeatedly dabbled in code, Neural Networks, and Python ever since his science fair project in 7th Grade. He just wants to know enough code to make odd things involving art, 3D printing, and social game design, but has ended up writing a novel, *Tales of Atlantis Six Vol. 1*, building robots, and a variety of other activities. Woe be to the person who questions Gabriel Fergesen about Portal, books, or Ingress Prime, as he loves to talk about his fandoms. (yes, he is indeed a nerd.) 
 
 
 ![](images\profileJames.png)
@@ -31,15 +54,14 @@ Favorite food: Pho
 Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.
 
 
-![](images\profileStu.jpg)
-### Stu Penrose
+### Peter Zagnoli
 
-Team role: Head Coach
+Team role: Builder
 Years in FIRST: 3
-Favorite Food: saganaki
+Age: 14
+Favorite food: American Food ie fried stuff
 
-A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
-Learn more about Stu at stu.penrose.us
+Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. Other than robotics, he enjoys flying 5th scale, which is super huge, RC planes. 
 
 
 ### Luke Schrodi
@@ -50,30 +72,55 @@ Grade: 10
 Age: 15
 Favorite Food: Not salad ;)
 
+<<<<<<< HEAD
 Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. The Thunder Chickens made it to regionals two years in a row and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. 
 In his free time, he enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also owns two custom built RC cars.
 
 
+=======
+Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
+
+![](images\profileStu.jpg)
+### Stu Penrose
+
+Team role: Head Coach
+Years in FIRST: 3
+Favorite Food: saganaki
+
+A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
+Learn more about Stu at stu.penrose.us
+
+### Adrian Flores Sr.
+Team Role : Coach
+Years of First : 2
+Favorite food : Sushi
+
+Adrian has 20 years of experience as mechanical designer using Solidworks. He coached 2019 FLL team "Bricking the Limits", one of the teams that made it to regionals that year. Adrian enjoys spending time with his family at the beach, fishing, and kayaking. He also enjoys camping. 
+Adrian's main role in Brainstormz is being a mechanical design coach.
+
+![](images/profileGarrett.jpg)
+>>>>>>> 19ab4025ff3bb92d58df4d0c59f79075b8245903
 ### Garrett Smalley
 
 Team role: Mentor
-Years in FIRST: 15
-Age: 25
+Years in FIRST: 17
+Age: 27
 
 Garret is a mechanical engineer, and mentors us in mechanical design, fabrication, and CAD.
 
-  
+
+![](images/profileJacob.jpg)  
 ### Jacob Newman
 
 Team role: Building and programming mentor
-Years in FIRST: 3
-Age: 18
-Grade: 12th
+Years in FIRST: 4
+Age: 20
 Favorite food: Soy yogurt
 
-Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 3rd year on a FIRST team. He has his own computer repair business, Jacob's PC Tune-Up.  When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much. He is a senior homeschooler.
+Jacob is a Nerd/Geek (he hasn't figured out which one yet) who has been interested in technology his entire life. This is his 5rd year involved with a FIRST team. When not working on robots or robot code, Jacob enjoys playing/contributing to/telling people about SuperTuxKart way too much.
 
-  
+
+![](images/profileJeff.png)  
 ### Jeff DeVico
 
 Team role: Coach
@@ -83,22 +130,14 @@ Favorite food: Fondue
 
 Jeff has been coaching in FIRST for five years, and this is his third year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids at 18, 16, and 12 years old. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success.
 
-  
+
+![](images/profileSung.JPG)  
 ### Sung Choi
 
 Team role: Coach
 Years in FIRST: 6
-Age: 49
+Age: 50
 Favorite food: Asian Confusion
 
 Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering.
 
-
-### Gabriel Fergesen 
-
-Team role: Coder
-Years in FIRST: This is my FIRST year (uwu)
-Age: 14
-Favorite food: everything, but I hate tomatoes and condiments, and LOVE asian/big juicy steaks/Indian food.
-
-Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll make the best of it (although he's a little nervous). He has repeatedly dabbled in code, Neural Networks, and Python ever since his science fair project in 7th Grade. He just wants to know enough code to make odd things involving art, 3D printing, and social game design, but has ended up writing a novel, *Tales of Atlantis Six Vol. 1*, building robots, and a variety of other activities. Woe be to the person who questions Gabriel Fergesen about Portal, books, or Ingress Prime, as he loves to talk about his fandoms. (yes, he is indeed a nerd.) 
