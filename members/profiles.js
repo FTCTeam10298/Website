@@ -16,11 +16,11 @@ var people = [{
     role:"Builder, coder",
     yearsInFirst:3,
     personalAttributes:{
-        "Age": "14",
-        "Grade": "8th",
+        "Age": "15",
+        "Grade": "9th",
         "Favorite food": "Korean BBQ"
         },
-    bio:"James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer.",
+    bio:"James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He also enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer.",
     imageUrl:"images/profileJames.png"
 },{
 
