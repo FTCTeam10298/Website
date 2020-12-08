@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ontouchmove >
+<html ontouchmove>
     <head>
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
@@ -17,48 +17,29 @@
 
             <!-- text -->
             <div class="text">
-                
-                <h1>Team Members</h1>
-                <a href="#goal"><h3>Ultimate Goal</h3></a>
-                <a href="#skystone"><h3>Skystone</h3></a>
-                <a href="#ruckus"><h3>Rover Ruckus</h3></a>
-                <a href="#recovery"><h3>Relic Recovery</h3></a>
-                <a href="#vortex"><h3>Velocity Vortex</h3></a>
-                <a href="#res-Q"><h3>RES-Q</h3></a><br>
-                <br>
 
-                <h2 id="goal">Ultimate Goal</h2>
-                <br>
+                <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult){
+                        function reqListener () {
+                            onResult(this.responseText);
+                        }
 
-                <div class="ultimateGoal team"></div>
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
 
-                <h2 id="skystone">Skystone</h2>
-                <br>
+                    get("members.md", function(text){
 
-                <div class="skystone team"></div>
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked(text);
+                    })
+                </script>
 
-                <h2 id="ruckus">Rover Ruckus</h2>  
-                <br>
-                
-                <div class="roverRuckus team"></div>
-
-                <h2 id="recovery">Relic Recovery</h2>
-                <br>
-
-                <div class="relicRecovery team"></div>
-
-                <h2 id="vortex">Velocity Vortex</h2>
-                <br>
-
-                <div class="velocityVortex team"></div>
-
-                <h2 id="res-Q">RES-Q</h2>
-                <br>
-
-                <div class="res-Q team"></div>
-
-                <script src="profiles.js"></script>
-
+              
             </div>
         </div>
         <!-- footer -->
