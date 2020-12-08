@@ -4,6 +4,7 @@
         <title>Brain Stormz, Team 10298</title>
         <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
         <link rel="stylesheet" href="../style.css" type="text/css"/>
+        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
@@ -17,26 +18,27 @@
 
             <!-- text -->
             <div class="text">
-                
+
                 <div id="markdown-content"></div>
                 <script>
                     function get(url, onResult){
                         function reqListener () {
                             onResult(this.responseText);
                         }
-    
+
                         var oReq = new XMLHttpRequest();
                         oReq.addEventListener("load", reqListener);
                         oReq.open("GET", url);
                         oReq.send();
                     }
-    
+
                     get("members.md", function(text){
-    
+
                         var contentHolder = document.getElementById('markdown-content')
                         contentHolder.innerHTML = marked(text);
                     })
                 </script>
+
               
             </div>
         </div>
