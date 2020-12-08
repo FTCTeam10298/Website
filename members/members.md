@@ -9,6 +9,8 @@ Favorite food: Pho
 
 Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.
 
+<br>
+
 ### Gabriel Fergesen 
 
 Team role: Coder
@@ -25,11 +27,13 @@ Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll
 
 Team role: Coder, Builder
 Years in FIRST: 3
-Age: 14
-Grade: 8th
+Age: 15
+Grade: 9th
 Favorite food: Korean BBQ
 
 James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer.
+
+<br>
 
 ### Luke Schrodi
 
@@ -41,6 +45,7 @@ Favorite Food: Not salad ;)
 
 Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
 
+<br>
 
 ### Madeleine Schrodi
 
@@ -52,6 +57,7 @@ Favorite Food: All of the above :)
 
 While this is her first official year in FIRST, she has been involved through her brother (Luke Schrodi) for much longer than that. Her pre-official contributions include exciting things like desinging the team-logo for the Thunder Chickens or being a ref at an FLL regional competition. She also did the small things like bringing donuts to scrimmages, helping team member's with their project scripts, or making sure that every moment was captured with pictures and videos. Madeleine is thrilled to finally be an official team member and is excited to see what this year will hold.
 
+<br>
 
 ### Peter Zagnoli
 
@@ -62,6 +68,7 @@ Favorite food: American Food ie fried stuff
 
 Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder Chickens and is starting his first year in FTC. In his own words, he "was amazing at every thing in FLL and will be in FTC". While he said that completely jokingly (as it was farrrr from the truth), it speaks to his motivation and drive to excel in this new competition. Other than robotics, he enjoys flying 5th scale, which is super huge, RC planes.   
 
+<br>
 
 ### Teague Shepard
 
@@ -71,41 +78,11 @@ Age: 15
 Grade: 9th
 Favorite Food: Sushi
 
-<<<<<<< HEAD
 Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. The Thunder Chickens made it to regionals two years in a row and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. 
 In his free time, he enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also owns two custom built RC cars.
 
-
-=======
-Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
-
-
-## mentors
-
-### Adrian Flores Sr.
-Team Role : Coach
-Years of First : 2
-Favorite food : Sushi
-
-Adrian has 20 years of experience as mechanical designer using Solidworks. He coached 2019 FLL team "Bricking the Limits", one of the teams that made it to regionals that year. Adrian enjoys spending time with his family at the beach, fishing, and kayaking. He also enjoys camping. 
-Adrian's main role in Brainstormz is being a mechanical design coach.  
-
 <br>
 
-![](images/profileStu.jpg)
-### Stu Penrose
-
-Team role: Head Coach
-Years in FIRST: 3
-Favorite Food: saganaki
-
-A life-long hardware & software engineering enthusiast with a passion for teaching, Stu has worked as a product & software engineering leader in a variety of large-scale internet companies over the past 20 years.  When he's not coding or hanging out with Brain Stormz, you'll find him flying, sailing, or hanging out with his wife and 4 kids.
-Learn more about Stu at stu.penrose.us  
-
-<br>
-
-![](images/profileGarrett.jpg)
->>>>>>> 19ab4025ff3bb92d58df4d0c59f79075b8245903
 ### Garrett Smalley
 
 Team role: Mentor
