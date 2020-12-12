@@ -25,10 +25,10 @@ Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll
 ### Hunter Wagenseller
 
 Team role: Coder, Builder  
-Years in FIRST: 1 
-Age: 14
-Grade: 8th 
-Favorite food: Steak
+Years in FIRST: 1  
+Age: 14  
+Grade: 8th   
+Favorite food: Steak  
 
 As I participate in FTC I also like to do many other things in my spare time including Boy Scouts, Airsoft, Basketball, riding ATV's, Tubing, Going to bike parks, Gaming, and Legos. I have 1 dog, a hamster, and 3 chickens. I have 3 other siblings, and my Dad owns a Security company. I hope to continue on the team (Brain stormz) It is a fun activity that I want to stay in.
 
