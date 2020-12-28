@@ -1,13 +1,6 @@
 # Donate
 
-### Go Fund Me
+Donate now through one of the below options or, contact us at [ftc10298@gmail.com](mailto:ftc10298@gmail.com)
 
-Follow the link to our gofundme campaign to donate now! [Gofundme.com](http://gofundme.com)
-
-### Paypal 
-
-
-
-### Contact Us
-
-Get in touch with us by email [ftc10298@gmail.com](mailto:ftc10298@gmail.com)
+- [Gofundme](http://gofundme.com)
+- [Paypal](https://paypal.com)
