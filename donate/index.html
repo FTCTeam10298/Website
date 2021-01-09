@@ -6,6 +6,36 @@
         <link rel="stylesheet" href="../style.css" type="text/css"/>
         <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style>
+            .donate-button {
+                display:inline-block;
+                border:1px solid #aaaaaa; 
+                border-radius:5px;
+                height:75px;
+                padding:20px;
+                margin:20px;
+            }
+            .donate-button:hover {
+                background:#eeeeee;
+                border:1px solid #aaaaaa; 
+            }
+
+            .donate-button img {
+
+                height:75px;
+            }
+
+            .go-fund-me-button img {
+
+                height:75px;
+            }
+            .donate-buttons {
+                text-align: center;
+                margin-top:20px;
+            }
+
+        </style>
     </head>
     <body>
 
@@ -41,9 +71,27 @@
                     })
                 </script>
 
+                <div class="donate-buttons">
+                    <a class="donate-button go-fund-me-button"
+                        href="https://www.gofundme.com/f/fundraiser-for-brain-stormz-robotics-team/donate" 
+                        target="_blank">
+                        <img src="/images/gofundme-logo.png" />
+                    </a>
+
+                    <a class="donate-button paypal-button"
+                        href="https://www.paypal.com/donate?hosted_button_id=UWESQKGZXLLJ6" 
+                        target="_blank">
+                        <img src="/images/paypal.png" >
+                    </a>
+
+                </div>
             </div>
 
+
+
+
         </div>
+        
         <!-- footer -->
         <div class="insertion-point" file="../modularity/footer.html" ></div>
         <script src="../modularity/modular.js"></script>
