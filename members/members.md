@@ -11,6 +11,7 @@ Adrian is a part of Trinity Pacific Christian School and this is his first year 
 
 <br>
 
+![](images/profileGabe.jpeg)
 ### Gabriel Fergesen 
 
 Team role: Coder  
@@ -22,6 +23,7 @@ Gabriel didn't think he'd ever end up on a FIRST team, but here he is, and he'll
 
 <br>
 
+![](images/profileHunter.jpeg)
 ### Hunter Wagenseller
 
 Team role: Coder, Builder  
@@ -34,7 +36,7 @@ As I participate in FTC I also like to do many other things in my spare time inc
 
 <br>
 
-![](images/profileJames.png)
+![](images/profileJames.jpeg)
 ### James Penrose
 
 Team role: Coder, Builder  
@@ -47,12 +49,13 @@ James has done FLL for two years on team 32221 Thunder Chickens as a programmer 
 
 <br>
 
+![](images/profileLuke.jpeg)
 ### Luke Schrodi
 
 Team role: Builder, robot designer  
 Year in FIRST: 4  
 Grade: 10  
-Age: 15  
+Age: 16  
 Favorite Food: Not salad ;)  
 
 Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. His team made it to regionals two years in a row, and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. He enjoys nerding on people in Fortnite and shredding local trails with his friends on his mountain bike. He also has two custom built RC cars.
@@ -71,6 +74,7 @@ While this is her first official year in FIRST, she has been involved through he
 
 <br>
 
+![](images/profilePeter.jpeg)
 ### Peter Zagnoli
 
 Team role: Builder  
@@ -82,6 +86,7 @@ Peter had been in FLL for two seasons as a part of (then) rookie team, Thunder C
 
 <br>
 
+![](images/profileTeague.jpeg)
 ### Teague Shepard
 
 Team Role: Builder  
@@ -90,8 +95,7 @@ Age: 15
 Grade: 9th  
 Favorite Food: Sushi  
 
-Luke was on the FLL team Thunder Chickens #32221 for 3 years. During his time at FLL, Luke had a chance to design and build the entire core chasis for one of their bots as well as helping with building many mission-fulfilling attachements. The Thunder Chickens made it to regionals two years in a row and nearly qualified for worlds. He is thrilled to be building attachments for his FTC team. 
-In his free time, he enjoys nerding on people in fortnite and shredding local trails with his friends on his mountain bike. He also owns two custom built RC cars.
+There's nothing interesting about this duuude.
 
 <br>
 
