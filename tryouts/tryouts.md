@@ -1,6 +1,6 @@
 # Offseason Training/Try-outs
 
-Brain Stormz is excited to announce the start of Training & Try-Outs for the upcoming 2020/21 FTC season. Come join us to see if you have what it takes (enthusiasm & dedication) to be a part of this award-winning, world-competitive robotics team.
+Brain Stormz is excited to announce the start of Training & Try-Outs for the upcoming 2021/22 FTC season. Come join us to see if you have what it takes (enthusiasm & dedication) to be a part of this award-winning, world-competitive robotics team.
 
 ## Why Join Brain Stormz?
 
@@ -25,7 +25,7 @@ Candidates must be able to perform one or more of the following roles:
 
 ## What is Off-Season Training & Try-Outs?
 
-Brain Stormz is offering a series of training opportunities leading-up to the official start of the 2020/21 FTC season.  These classes provide candidates with:
+Brain Stormz is offering a series of training opportunities leading-up to the official start of the 2021/22 FTC season. These classes provide candidates with:
 
 - Valuable training in basic robotics skills, including CAD/CAM & Software Engineering
 - An opportunity to work with the existing team, coaches and mentors
@@ -36,10 +36,10 @@ General requirements for involvement in Off-Season Training & Try-Outs are:
 - Access to a computer that can run needed software (Android Studio, SolidWorks, etc.)
 - Ability to attend classes/meetings & do homework (varies by course)
 
-The schedule is subject to change, but currently includes:
+<!-- The schedule is subject to change, but currently includes:
 
 - Intro to SolidWorks (2-10 hours/week, meeting on Monday evenings)
-- Programming Bootcamp (May 12-16th)
+- Programming Bootcamp (May 12-16th) -->
 
 ## How do I Become A Team Member?
 
