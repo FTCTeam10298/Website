@@ -103,11 +103,9 @@
         var script = document.createElement("script");
         script.src = loaderUrl;
         script.onload = () => {
-            createUnityInstance(canvas, config, (progress) => {
-                progressBarFull.style.width = 100 * progress + "%";
-            }).then((unityInstance) => {
-                loadingBar.style.display = "none";
-            }).catch((message) => {
+
+            loadingBar.style.display = "none";
+            createUnityInstance(canvas, config, (progress) => {}).catch((message) => {
                 alert(message);
             });
         };
