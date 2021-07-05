@@ -4,9 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | unityFieldSim</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="images/brainStormzFavicon.png" type="image/png">
     <link rel="stylesheet" href="TemplateData/style.css">
+    <!-- <link rel="stylesheet" href="style.css" type="text/css"/> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
@@ -19,6 +21,11 @@
             </div>
         </div>
         <div id="unity-warning"> </div>
+        <div id="unity-footer">
+            <div id="unity-webgl-logo"></div>
+            <div id="unity-fullscreen-button"></div>
+            <div id="unity-build-title">unityFieldSim</div>
+        </div>
     </div>
     <script>
         var container = document.querySelector("#unity-container");
@@ -53,11 +60,11 @@
         }
 
         var buildUrl = "Build";
-        var loaderUrl = buildUrl + "/build1.loader.js";
+        var loaderUrl = buildUrl + "/build2Gzip.loader.js";
         var config = {
-            dataUrl: buildUrl + "/build1.data.br",
-            frameworkUrl: buildUrl + "/build1.framework.js.br",
-            codeUrl: buildUrl + "/build1.wasm.br",
+            dataUrl: buildUrl + "/build2Gzip.data.gz",
+            frameworkUrl: buildUrl + "/build2Gzip.framework.js.gz",
+            codeUrl: buildUrl + "/build2Gzip.wasm.gz",
             streamingAssetsUrl: "StreamingAssets",
             companyName: "Brain Stormz",
             productName: "unityFieldSim",
