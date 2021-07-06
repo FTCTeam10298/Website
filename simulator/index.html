@@ -56,11 +56,11 @@
         }
 
         var buildUrl = "Build";
-        var loaderUrl = buildUrl + "/build4.loader.js";
+        var loaderUrl = buildUrl + "/fieldSimVisual.loader.js";
         var config = {
-            dataUrl: buildUrl + "/build4.data",
-            frameworkUrl: buildUrl + "/build4.framework.js",
-            codeUrl: buildUrl + "/build4.wasm",
+            dataUrl: buildUrl + "/fieldSimVisual.data",
+            frameworkUrl: buildUrl + "/fieldSimVisual.framework.js",
+            codeUrl: buildUrl + "/fieldSimVisual.wasm",
             streamingAssetsUrl: "StreamingAssets",
             companyName: "Brain Stormz",
             productName: "unityFieldSim",
@@ -110,9 +110,16 @@
             });
         };
         document.body.appendChild(script);
+
+        function setPowers(lf, rf, lb, rb) {
+            thisUnityInstance.SendMessage('JsInterface', 'lfPower', lf);
+            thisUnityInstance.SendMessage('JsInterface', 'rfPower', rf);
+            thisUnityInstance.SendMessage('JsInterface', 'lbPower', lb);
+            thisUnityInstance.SendMessage('JsInterface', 'rbPower', rb);
+        }
     </script>
 
-    <button onclick="thisUnityInstance.SendMessage('JsInterface', 'zeroValues');">zeroValues</button>
+    <button onclick="setPowers(1, -1, -1, 1)">set power</button>
     <button onclick="thisUnityInstance.SendMessage('JsInterface', 'valuesOne');">valuesOne</button>
 
 </body>
