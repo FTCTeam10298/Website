@@ -93,8 +93,8 @@
         } else {
             // Desktop style: Render the game canvas in a window that can be maximized to fullscreen:
 
-            canvas.style.width = window.innerWidth - 50 + 'px';
-            canvas.style.height = window.innerHeight - 50 + 'px';
+            canvas.style.width = 130 + '%';
+            canvas.style.height = 130 + '%';
         }
 
         loadingBar.style.display = "none";
@@ -117,10 +117,51 @@
             thisUnityInstance.SendMessage('JsInterface', 'lbPower', lb);
             thisUnityInstance.SendMessage('JsInterface', 'rbPower', rb);
         }
+
+        // while (true) {
+        //     setPowers(lf, rf, lb, rb)
+        //     display.innerHTML = lfInput.value
+        // }
+
+        var lf = 0;
+        var rf = 0;
+        var lb = 0;
+        var rb = 0;
     </script>
 
-    <button onclick="setPowers(1, -1, -1, 1)">set power</button>
-    <button onclick="thisUnityInstance.SendMessage('JsInterface', 'valuesOne');">valuesOne</button>
+    <style>
+        body {
+            margin: 1%;
+        }
+        
+        .slidecontainer {
+            margin: 1%;
+        }
+        
+        canvas {
+            margin: 1%;
+        }
+    </style>
+
+    <p>lf:</p>
+    <button onclick="lf += 0.1; console.log(lf)">+</button>
+    <button onclick="lf -= 0.1">-</button>
+
+
+    <p>rf:</p>
+    <button onclick="rf += 0.1; console.log(rf)">+</button>
+    <button onclick="rf -= 0.1">-</button>
+
+    <p>lb:</p>
+    <button onclick="lb += 0.1; console.log(lb)">+</button>
+    <button onclick="lb -= 0.1">-</button>
+
+    <p>rb:</p>
+    <button onclick="rb += 0.1; console.log(rb)">+</button>
+    <button onclick="rb -= 0.1">-</button>
+
+    <button onclick="setPowers(lf, rf, lb, rb)">Apply</button>
+    <p>lf Value: <span id="demo"></span></p>
 
 </body>
 
