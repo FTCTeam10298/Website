@@ -118,11 +118,6 @@
             thisUnityInstance.SendMessage('JsInterface', 'rbPower', rb);
         }
 
-        // while (true) {
-        //     setPowers(lf, rf, lb, rb)
-        //     display.innerHTML = lfInput.value
-        // }
-
         var lf = 0;
         var rf = 0;
         var lb = 0;
@@ -143,26 +138,31 @@
         }
     </style>
 
-    <p>lf:</p>
-    <button onclick="lf += 0.1; console.log(lf)">+</button>
-    <button onclick="lf -= 0.1">-</button>
+    <p id="lf">lf: 0</p>
+    <button onclick="lf += 1; buttonClicked();">+</button>
+    <button onclick="lf -= 1; buttonClicked();">-</button>
 
+    <p id="rf">rf: 0</p>
+    <button onclick="rf += 1; buttonClicked();">+</button>
+    <button onclick="rf -= 1; buttonClicked();">-</button>
 
-    <p>rf:</p>
-    <button onclick="rf += 0.1; console.log(rf)">+</button>
-    <button onclick="rf -= 0.1">-</button>
+    <p id="lb">lb: 0</p>
+    <button onclick="lb += 1; buttonClicked();">+</button>
+    <button onclick="lb -= 1; buttonClicked();">-</button>
 
-    <p>lb:</p>
-    <button onclick="lb += 0.1; console.log(lb)">+</button>
-    <button onclick="lb -= 0.1">-</button>
+    <p id="rb">rb: 0</p>
+    <button onclick="rb += 1; buttonClicked();">+</button>
+    <button onclick="rb -= 1; buttonClicked();">-</button>
 
-    <p>rb:</p>
-    <button onclick="rb += 0.1; console.log(rb)">+</button>
-    <button onclick="rb -= 0.1">-</button>
-
-    <button onclick="setPowers(lf, rf, lb, rb)">Apply</button>
-    <p>lf Value: <span id="demo"></span></p>
-
+    <script>
+        function buttonClicked() {
+            document.getElementById('lf').innerHTML = 'lf: ' + lf;
+            document.getElementById('rf').innerHTML = 'rf: ' + rf;
+            document.getElementById('lb').innerHTML = 'lb: ' + lb;
+            document.getElementById('rb').innerHTML = 'rb: ' + rb;
+            setPowers(lf, rf, lb, rb)
+        }
+    </script>
 </body>
 
 </html>
