@@ -19,8 +19,8 @@ body {
 
 .content {
     background-color: #ffffff;
-    margin-top: 73px;
-    min-height: calc(100vh - 116px - 73px);
+    margin-top: 6em;
+    min-height: calc(100vh - 6em);
 }
 
 .text {
@@ -73,7 +73,7 @@ h2 {
     color: #ffffff;
     text-align: center;
     position: relative;
-    height: 96vh;
+    height: calc(100vh - 6em);
 }
 
 .welcome:before {
@@ -88,7 +88,7 @@ h2 {
 
 .welcome>.text {
     font-size: x-large;
-    margin: 0 3% 12% 3%;
+    margin: 0 0 6em 0;
     background: #00000059;
     display: inline-block;
     border-radius: 20px;
