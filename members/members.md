@@ -11,6 +11,19 @@ Adrian is a part of Trinity Pacific Christian School and this is his first year 
 
 <br>
 
+![](images/profileBrody.png)
+### Brody Sisson
+
+Team role: builder, new guy.  
+Years in FIRST: This is my FIRST year in first.  Wait.  Strike that.  Swap it.  
+Age: 14  
+Grade: 9  
+Favorite food:  Burritos  
+
+Brody has never done robotics until now.  Mainly he joined cuz a lot of his friends were on the team, but he has always liked to build things.  He enjoys watching movies, mountain biking, skiing, surfing, and video games.  (Don't we all?)
+
+<br>
+
 ![](images/profileGabe.jpeg)
 ### Gabriel Fergesen 
 
