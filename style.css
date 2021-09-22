@@ -93,14 +93,15 @@ h2 {
     display: inline-block;
     border-radius: 20px;
     padding: 0;
+    backdrop-filter: blur(10px);
 }
 
-.welcome>.text:first-child {
-    padding-top: 0;
+.welcome>.text>*:first-child {
+    margin-top: 0;
 }
 
-.welcome>.text:last-child {
-    padding-bottom: 0;
+.welcome>.text>*:last-child {
+    margin-bottom: 0;
 }
 
 .framedContent {
