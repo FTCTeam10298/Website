@@ -89,10 +89,18 @@ h2 {
 .welcome>.text {
     font-size: x-large;
     margin: 0 0 6em 0;
-    background: #00000059;
+    background: #33333360;
     display: inline-block;
     border-radius: 20px;
-    padding: 0 1em;
+    padding: 0;
+}
+
+.welcome>.text:first-child {
+    padding-top: 0;
+}
+
+.welcome>.text:last-child {
+    padding-bottom: 0;
 }
 
 .framedContent {
