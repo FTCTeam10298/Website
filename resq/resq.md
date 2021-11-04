@@ -1,4 +1,4 @@
-![](images\profileJeff.png)
+![](../members/images/profileJeff.png)
 ### Jeff DeVico
 Team role: Coach
 Years in FIRST: 5

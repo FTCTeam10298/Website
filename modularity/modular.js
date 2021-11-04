@@ -1,10 +1,11 @@
-function each(list, fn){
-    for(var x=0;x < list.length;x++){
+function each(list, fn) {
+    for (var x = 0; x < list.length; x++) {
         fn(list[x])
     }
 }
-function get(url, onResult){
-    function reqListener () {
+
+function get(url, onResult) {
+    function reqListener() {
         onResult(this.responseText);
     }
 
@@ -16,11 +17,11 @@ function get(url, onResult){
 
 var insertionPoints = document.querySelectorAll(".insertion-point")
 console.log("Insertion points are ", insertionPoints)
-each(insertionPoints, function(insertionPoint){
+each(insertionPoints, function(insertionPoint) {
     console.log("next insertion point is ", insertionPoint)
     var url = insertionPoint.getAttribute("file")
 
-    get(url, function(thetext){
+    get(url, function(thetext) {
         console.log("Going to insert ", thetext, " into ", insertionPoint)
         insertionPoint.innerHTML = thetext;
     })

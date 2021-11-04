@@ -1,5 +1,5 @@
-function get(url, onResult){
-    function reqListener () {
+function get(url, onResult) {
+    function reqListener() {
         onResult(this.responseText);
     }
 
@@ -9,8 +9,10 @@ function get(url, onResult){
     oReq.send();
 }
 
-get("tryouts.md", function(text){
-
-    var contentHolder = document.getElementById('markdown-content')
-    contentHolder.innerHTML = marked(text);
-})
+function insertFrom(location) {
+    console.log("hey hey hey")
+    get(location, function(text) {
+        var contentHolder = document.getElementById('markdown-content')
+        contentHolder.innerHTML = marked.parse(text);
+    })
+}

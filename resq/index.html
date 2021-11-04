@@ -5,6 +5,7 @@
     <title>Brain Stormz, Team 10298</title>
     <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
     <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="../markdown.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -24,25 +25,11 @@
             <!-- members -->
 
             <div id="markdown-content"></div>
+            <script src="../markdown.js"></script>
             <script>
-                function get(url, onResult) {
-                    function reqListener() {
-                        onResult(this.responseText);
-                    }
-
-                    var oReq = new XMLHttpRequest();
-                    oReq.addEventListener("load", reqListener);
-                    oReq.open("GET", url);
-                    oReq.send();
-                }
-
-                get("resq.md", function(text) {
-
-                    var contentHolder = document.getElementById('markdown-content')
-                    console.log("markdown:" + contentHolder)
-                    contentHolder.innerHTML = marked.parse(text);
-                })
+                insertFrom("resq.md")
             </script>
+
         </div>
 
     </div>
