@@ -1,66 +1,69 @@
 <!DOCTYPE html>
-<html ontouchmove >
-    <head>
-        <title>Brain Stormz, Team 10298</title>
-        <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
-        <link rel="stylesheet" href="../style.css" type="text/css"/>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
+<html ontouchmove>
 
-        <!-- nav bar -->
-        <div class="insertion-point" file="../modularity/navBar.html" ></div>
-        <script src="../modularity/modular.js"></script>
-        <script src="../modularity/navBar.js"></script>
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-        <div class="content">
+<body>
 
-            <!-- text -->
-            <div class="text">
+    <!-- nav bar -->
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
 
-                <div id="markdown-content"></div>
-                <script>
-                    function get(url, onResult){
-                        function reqListener () {
-                            onResult(this.responseText);
-                        }
-    
-                        var oReq = new XMLHttpRequest();
-                        oReq.addEventListener("load", reqListener);
-                        oReq.open("GET", url);
-                        oReq.send();
+    <div class="content">
+
+        <!-- text -->
+        <div class="text">
+
+            <div id="markdown-content"></div>
+            <script>
+                function get(url, onResult) {
+                    function reqListener() {
+                        onResult(this.responseText);
                     }
-    
-                    get("sponsor.md", function(text){
-    
-                        var contentHolder = document.getElementById('markdown-content')
-                        contentHolder.innerHTML = marked(text);
-                    })
-                </script>
+
+                    var oReq = new XMLHttpRequest();
+                    oReq.addEventListener("load", reqListener);
+                    oReq.open("GET", url);
+                    oReq.send();
+                }
+
+                get("sponsor.md", function(text) {
+
+                    var contentHolder = document.getElementById('markdown-content')
+                    contentHolder.innerHTML = marked.parse(text);
+                })
+            </script>
 
 
-                <div class="bigB sponsors">
-                    <h2>Big Brain Sponsors</h2>
+            <div class="bigB sponsors">
+                <h2>Big Brain Sponsors</h2>
 
-                    <a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a>
-                    <a href="https://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
-                    <!-- <a href="their website"><img src"egPicLink.png"></a> -->
-                </div>
-                <hr>
+                <a href="http://www.solidworks.com/"><img src="../images/solidWorksLogo.png"></a>
+                <a href="https://www.postageone.com"><img src="../images/poastageOne.jpg"></a>
+                <!-- <a href="their website"><img src"egPicLink.png"></a> -->
+            </div>
+            <hr>
 
-                <div class="friends sponsors">
-                    <h2>Brain Stormz Friends</h2>
+            <div class="friends sponsors">
+                <h2>Brain Stormz Friends</h2>
 
-                    <a href="https://www.revrobotics.com"><img src="../images/rev_logo.png"></a>
-
-                </div>
-                <hr>
+                <a href="https://www.revrobotics.com"><img src="../images/rev_logo.png"></a>
 
             </div>
+            <hr>
+
         </div>
-        <!-- footer -->
-        <div class="insertion-point" file="../modularity/footer.html" ></div>
-        <script src="../modularity/modular.js"></script>
-    </body>
+    </div>
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
 </html>

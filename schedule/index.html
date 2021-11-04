@@ -1,58 +1,60 @@
-
 <!DOCTYPE html>
-<html ontouchmove >
-    <head>
-        <title>Brain Stormz, Team 10298</title>
-        <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
-        <link rel="stylesheet" href="../style.css" type="text/css"/>    
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <style>
-            .calendar {
-                margin-top:25px;
-                /* margin-left:20px; */
-            }
-        </style>
-    </head>
-    <body>
+<html ontouchmove>
 
-        <!-- nav bar -->
-        <div class="insertion-point" file="../modularity/navBar.html" ></div>
-        <script src="../modularity/modular.js"></script>
-        <script src="../modularity/navBar.js"></script>
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .calendar {
+            margin-top: 25px;
+            /* margin-left:20px; */
+        }
+    </style>
+</head>
 
-        <div class="content">
+<body>
 
-            <!-- text -->
-            <div class="text">
-                <div id="markdown-content"></div>
+    <!-- nav bar -->
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
 
-                <script>
-                    function get(url, onResult){
-                        function reqListener () {
-                            onResult(this.responseText);
-                        }
+    <div class="content">
 
-                        var oReq = new XMLHttpRequest();
-                        oReq.addEventListener("load", reqListener);
-                        oReq.open("GET", url);
-                        oReq.send();
+        <!-- text -->
+        <div class="text">
+            <div id="markdown-content"></div>
+
+            <script>
+                function get(url, onResult) {
+                    function reqListener() {
+                        onResult(this.responseText);
                     }
 
-                    get("content.md", function(text){
+                    var oReq = new XMLHttpRequest();
+                    oReq.addEventListener("load", reqListener);
+                    oReq.open("GET", url);
+                    oReq.send();
+                }
 
-                        var contentHolder = document.getElementById('markdown-content')
-                        contentHolder.innerHTML = marked(text);
-                    })
-                </script>
+                get("content.md", function(text) {
 
-            </div>
-
-
+                    var contentHolder = document.getElementById('markdown-content')
+                    contentHolder.innerHTML = marked.parse(text);
+                })
+            </script>
 
         </div>
-        <!-- footer -->
-        <div class="insertion-point" file="../modularity/footer.html" ></div>
-        <script src="../modularity/modular.js"></script>
-    </body>
+
+
+
+    </div>
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
 </html>

@@ -1,99 +1,97 @@
 <!DOCTYPE html>
-<html ontouchmove >
-    <head>
-        <title>Brain Stormz, Team 10298</title>
-        <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
-        <link rel="stylesheet" href="../style.css" type="text/css"/>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html ontouchmove>
 
-        <style>
-            .donate-button {
-                display:inline-block;
-                border:1px solid #aaaaaa; 
-                border-radius:5px;
-                height:75px;
-                padding:20px;
-                margin:20px;
-            }
-            .donate-button:hover {
-                background:#eeeeee;
-                border:1px solid #aaaaaa; 
-            }
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-            .donate-button img {
+    <style>
+        .donate-button {
+            display: inline-block;
+            border: 1px solid #aaaaaa;
+            border-radius: 5px;
+            height: 75px;
+            padding: 20px;
+            margin: 20px;
+        }
+        
+        .donate-button:hover {
+            background: #eeeeee;
+            border: 1px solid #aaaaaa;
+        }
+        
+        .donate-button img {
+            height: 75px;
+        }
+        
+        .go-fund-me-button img {
+            height: 75px;
+        }
+        
+        .donate-buttons {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
 
-                height:75px;
-            }
+<body>
 
-            .go-fund-me-button img {
+    <!-- nav bar -->
 
-                height:75px;
-            }
-            .donate-buttons {
-                text-align: center;
-                margin-top:20px;
-            }
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
 
-        </style>
-    </head>
-    <body>
+    <div class="content">
 
-        <!-- nav bar -->
-
-        <div class="insertion-point" file="../modularity/navBar.html" ></div>
-        <script src="../modularity/modular.js"></script>
-        <script src="../modularity/navBar.js"></script>
-
-        <div class="content">
-
-            <!-- tryouts text -->
-            <div class="text">
+        <!-- tryouts text -->
+        <div class="text">
 
 
-                <div id="markdown-content"></div>
-                <script>
-                    function get(url, onResult){
-                        function reqListener () {
-                            onResult(this.responseText);
-                        }
-
-                        var oReq = new XMLHttpRequest();
-                        oReq.addEventListener("load", reqListener);
-                        oReq.open("GET", url);
-                        oReq.send();
+            <div id="markdown-content"></div>
+            <script>
+                function get(url, onResult) {
+                    function reqListener() {
+                        onResult(this.responseText);
                     }
 
-                    get("donate.md", function(text){
+                    var oReq = new XMLHttpRequest();
+                    oReq.addEventListener("load", reqListener);
+                    oReq.open("GET", url);
+                    oReq.send();
+                }
 
-                        var contentHolder = document.getElementById('markdown-content')
-                        contentHolder.innerHTML = marked(text);
-                    })
-                </script>
+                get("donate.md", function(text) {
 
-                <div class="donate-buttons">
-                    <a class="donate-button go-fund-me-button"
-                        href="https://www.gofundme.com/f/fundraiser-for-brain-stormz-robotics-team/donate" 
-                        target="_blank">
-                        <img src="/images/gofundme-logo.png" />
-                    </a>
+                    var contentHolder = document.getElementById('markdown-content')
+                    contentHolder.innerHTML = marked.parse(text);
+                })
+            </script>
 
-                    <a class="donate-button paypal-button"
-                        href="https://www.paypal.com/donate?hosted_button_id=UWESQKGZXLLJ6" 
-                        target="_blank">
-                        <img src="/images/paypal.png" >
-                    </a>
+            <div class="donate-buttons">
+                <a class="donate-button go-fund-me-button" href="https://www.gofundme.com/f/fundraiser-for-brain-stormz-robotics-team/donate" target="_blank">
+                    <img src="/images/gofundme-logo.png" />
+                </a>
 
-                </div>
+                <a class="donate-button paypal-button" href="https://www.paypal.com/donate?hosted_button_id=UWESQKGZXLLJ6" target="_blank">
+                    <img src="/images/paypal.png">
+                </a>
+
             </div>
-
-
-
-
         </div>
-        
-        <!-- footer -->
-        <div class="insertion-point" file="../modularity/footer.html" ></div>
-        <script src="../modularity/modular.js"></script>
-    </body>
+
+
+
+
+    </div>
+
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
 </html>

@@ -1,29 +1,30 @@
-
 <!DOCTYPE html>
-<html ontouchmove >
-    <head>
-        <title>Brain Stormz, Team 10298</title>
-        <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
-        <link rel="stylesheet" href="../style.css" type="text/css"/>    
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
+<html ontouchmove>
 
-        <!-- nav bar -->
-        <div class="insertion-point" file="../modularity/navBar.html" ></div>
-        <script src="../modularity/modular.js"></script>
-        <script src="../modularity/navBar.js"></script>
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-        <div class="content">
+<body>
 
-            <!-- text -->
-            <div class="text">
-                
+    <!-- nav bar -->
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
+
+    <div class="content">
+
+        <!-- text -->
+        <div class="text">
+
             <div id="markdown-content"></div>
             <script>
-                function get(url, onResult){
-                    function reqListener () {
+                function get(url, onResult) {
+                    function reqListener() {
                         onResult(this.responseText);
                     }
 
@@ -33,20 +34,21 @@
                     oReq.send();
                 }
 
-                get("story.md", function(text){
+                get("story.md", function(text) {
 
                     var contentHolder = document.getElementById('markdown-content')
-                    contentHolder.innerHTML = marked(text);
+                    contentHolder.innerHTML = marked.parse(text);
                 })
             </script>
 
-            </div>
-
-
-
         </div>
-        <!-- footer -->
-        <div class="insertion-point" file="../modularity/footer.html" ></div>
-        <script src="../modularity/modular.js"></script>
-    </body>
+
+
+
+    </div>
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
 </html>

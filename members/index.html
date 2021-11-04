@@ -37,7 +37,7 @@
                 get("members.md", function(text) {
 
                     var contentHolder = document.getElementById('markdown-content')
-                    contentHolder.innerHTML = marked(text);
+                    contentHolder.innerHTML = marked.parse(text);
                 })
             </script>
             <style>

@@ -1,157 +1,161 @@
 <!DOCTYPE html>
-<html ontouchmove >
-    <head>
-        <title>Brain Stormz, Team 10298</title>
-        <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
-        <link rel="stylesheet" href="../style.css" type="text/css"/>
-        <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
-    <body>
+<html ontouchmove>
 
-        <!-- nav bar -->
-        <div class="insertion-point" file="../modularity/navBar.html" ></div>
-        <script src="../modularity/modular.js"></script>
-        <script src="../modularity/navBar.js"></script>
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-        <div class="content">
+<body>
 
-            <!-- text -->
-            <div class="text">
+    <!-- nav bar -->
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
+
+    <div class="content">
+
+        <!-- text -->
+        <div class="text">
 
 
-                <div class="awards">
+            <div class="awards">
 
-                    <h1>Awards</h1>
-                            
+                <h1>Awards</h1>
 
-                    <div id="markdown-content"></div>
-                    <script>
-                        function get(url, onResult){
-                            function reqListener () {
-                                onResult(this.responseText);
-                            }
-    
-                            var oReq = new XMLHttpRequest();
-                            oReq.addEventListener("load", reqListener);
-                            oReq.open("GET", url);
-                            oReq.send();
+
+                <div id="markdown-content"></div>
+                <script>
+                    function get(url, onResult) {
+                        function reqListener() {
+                            onResult(this.responseText);
                         }
-    
-                        get("awards.md", function(text){
-    
-                            var contentHolder = document.getElementById('markdown-content')
-                            contentHolder.innerHTML = marked(text);
-                        })
-                    </script>
+
+                        var oReq = new XMLHttpRequest();
+                        oReq.addEventListener("load", reqListener);
+                        oReq.open("GET", url);
+                        oReq.send();
+                    }
+
+                    get("awards.md", function(text) {
+
+                        var contentHolder = document.getElementById('markdown-content')
+                        contentHolder.innerHTML = marked.parse(text);
+                    })
+                </script>
 
 
-                    <h2>2018-19 Rover Ruckus</h2>
-                    
-                    
-                    <h4>Northern California, Fresno Qualifying Tournament (December 2018)</h4>
-                    <img src="../images/fresnoQT2018.jpg">
-                    
-                    <ul>
-                        <li>Inspire Award, 1st Place (all around award)</li>
-                        <li>Semi-Finalist Alliance Team Captain</li>
-                        <li>Think Award, 2nd Place</li>
-                        <li>Connect Award, 2nd Place</li>
-                        <li>Innovate Award, 2nd Place</li>
-                        <li>Design Award, 3rd Place</li>
-                        <li>Motivate Award, 2nd Place</li>
-                        <li>Control Award, 2nd Place</li>
-                        <li>Qualified to Northern California Regional Championship</li>
-                    </ul>
+                <h2>2018-19 Rover Ruckus</h2>
 
-                    
-                    <h2>2017-18 Relic Recovery</h2>
-                    
-                    
-                    <h4>Los Angeles Regional Championship (February 2018)</h4>
-                    <img src="../images/laRegional2018.jpg">
-                    
-                    <ul>
-                        <li>Control Award, 1st Place</li>
-                    </ul>
-                    
-                    <h4>Los Angeles D&amp;A2 Inter-League Tournament (February 2018)</h4>
-                    <img src="../images/iLT2018.jpg">
-                    
-                    <ul>
-                        <li>Inspire Award, 2nd Place (all around award)</li>
-                        <li>Winning Alliance, Team Captain</li>
-                        <li>Think Award, 3rd Place</li>
-                        <li>Connect Award, 3rd Place</li>
-                        <li>Innovate Award, 1st Place</li>
-                        <li>Design Award, 3rd Place</li>
-                        <li>Motivate Award, 3rd Place</li>
-                        <li>Control Award, 2nd Place</li>
-                        <li>Qualified to LA Regional Championship</li>
-                    </ul>
-                    
-                    
-                    <h2>2016-17 Velocity Vortex</h2>
-                    
-                    
-                    <h4>World Championship in Houston, TX (April 2017)</h4>
-                    <img src="../images/worlds2017.jpg">
-                    
-                    <ul>
-                        <li>Ranked 7th in division</li>
-                        <li>2nd pick for the 3rd alliance (#3595 Schrodingers Hat and #9899 Black Diamond Robotics)</li>
-                    </ul>
 
-                    
-                    <h4>West Super-Regionals in Tacoma, WA (March 2017)</h4>
-                    <img src="../images/superReg2017.jpg">
-                
-                    <ul><li>Ranked 7th in division</li>
-                        <li>2nd pick for the 3rd alliance (#3188 Squiggle Splat Bang and 7013 Hot Wired)</li>
-                        <li>Qualified to World Championship</li>
-                    </ul>
-                    
-                    <h4>Los Angeles Regional Chamionship (February 26, 2017)</h4>
-                    <img src="../images/laRegionals2017.jpg">
-                    
-                    <ul>
-                        <li>Winning Alliance, First Pick (#3526 Marlbots, #10598 Fusionyx)</li>
-                        <li>Nominated for the Control Award</li>
-                        <li>Qualified to West Super-Regionals</li>
-                    </ul>
-                    
-                    
-                    <h4>Los Angeles Zones D&amp;I Inter-League Tournament (February 11, 2017)</h4>
-                    <img src="../images/iLT2017.jpg">
+                <h4>Northern California, Fresno Qualifying Tournament (December 2018)</h4>
+                <img src="../images/fresnoQT2018.jpg">
 
-                    <ul>
-                        <li>Inspire Award, Second Place (all around award)</li>
-                        <li>Winning Alliance, Team Captain (#4216 RISE of Hephaestus and #25 Rock'N Roll)</li>
-                        <li>Control Award, First Place</li>
-                        <li>PTC Design Award, Second Place (Robot Design)</li>
-                        <li>Qualified to LA Regional Championship</li>
-                    </ul>
-                    
-                    
-                    <h2>2015-16 Res-Q</h2>
-                    
-                    
-                    <h4>Los Angeles Regional - YULA Qualifying Tournament (January 18, 2016)</h4>
-                    <ul>
-                        <li>Inspire Award, Second Place (all around award)</li>
-                        <li>Winning Alliance, First&nbsp;Pick (#8471 The Ducks)</li>
-                        <li>PTC Design Award (Robot Design)</li>
-                        <li>Connect Award (Community Outreach) - 2nd place</li>
-                        <li>Motivate Award (Team Spirit) - 3rd place</li>
-                        <li>Qualifed to LA Regional Championship</li>
-                    </ul>
-                </div>
+                <ul>
+                    <li>Inspire Award, 1st Place (all around award)</li>
+                    <li>Semi-Finalist Alliance Team Captain</li>
+                    <li>Think Award, 2nd Place</li>
+                    <li>Connect Award, 2nd Place</li>
+                    <li>Innovate Award, 2nd Place</li>
+                    <li>Design Award, 3rd Place</li>
+                    <li>Motivate Award, 2nd Place</li>
+                    <li>Control Award, 2nd Place</li>
+                    <li>Qualified to Northern California Regional Championship</li>
+                </ul>
+
+
+                <h2>2017-18 Relic Recovery</h2>
+
+
+                <h4>Los Angeles Regional Championship (February 2018)</h4>
+                <img src="../images/laRegional2018.jpg">
+
+                <ul>
+                    <li>Control Award, 1st Place</li>
+                </ul>
+
+                <h4>Los Angeles D&amp;A2 Inter-League Tournament (February 2018)</h4>
+                <img src="../images/iLT2018.jpg">
+
+                <ul>
+                    <li>Inspire Award, 2nd Place (all around award)</li>
+                    <li>Winning Alliance, Team Captain</li>
+                    <li>Think Award, 3rd Place</li>
+                    <li>Connect Award, 3rd Place</li>
+                    <li>Innovate Award, 1st Place</li>
+                    <li>Design Award, 3rd Place</li>
+                    <li>Motivate Award, 3rd Place</li>
+                    <li>Control Award, 2nd Place</li>
+                    <li>Qualified to LA Regional Championship</li>
+                </ul>
+
+
+                <h2>2016-17 Velocity Vortex</h2>
+
+
+                <h4>World Championship in Houston, TX (April 2017)</h4>
+                <img src="../images/worlds2017.jpg">
+
+                <ul>
+                    <li>Ranked 7th in division</li>
+                    <li>2nd pick for the 3rd alliance (#3595 Schrodingers Hat and #9899 Black Diamond Robotics)</li>
+                </ul>
+
+
+                <h4>West Super-Regionals in Tacoma, WA (March 2017)</h4>
+                <img src="../images/superReg2017.jpg">
+
+                <ul>
+                    <li>Ranked 7th in division</li>
+                    <li>2nd pick for the 3rd alliance (#3188 Squiggle Splat Bang and 7013 Hot Wired)</li>
+                    <li>Qualified to World Championship</li>
+                </ul>
+
+                <h4>Los Angeles Regional Chamionship (February 26, 2017)</h4>
+                <img src="../images/laRegionals2017.jpg">
+
+                <ul>
+                    <li>Winning Alliance, First Pick (#3526 Marlbots, #10598 Fusionyx)</li>
+                    <li>Nominated for the Control Award</li>
+                    <li>Qualified to West Super-Regionals</li>
+                </ul>
+
+
+                <h4>Los Angeles Zones D&amp;I Inter-League Tournament (February 11, 2017)</h4>
+                <img src="../images/iLT2017.jpg">
+
+                <ul>
+                    <li>Inspire Award, Second Place (all around award)</li>
+                    <li>Winning Alliance, Team Captain (#4216 RISE of Hephaestus and #25 Rock'N Roll)</li>
+                    <li>Control Award, First Place</li>
+                    <li>PTC Design Award, Second Place (Robot Design)</li>
+                    <li>Qualified to LA Regional Championship</li>
+                </ul>
+
+
+                <h2>2015-16 Res-Q</h2>
+
+
+                <h4>Los Angeles Regional - YULA Qualifying Tournament (January 18, 2016)</h4>
+                <ul>
+                    <li>Inspire Award, Second Place (all around award)</li>
+                    <li>Winning Alliance, First&nbsp;Pick (#8471 The Ducks)</li>
+                    <li>PTC Design Award (Robot Design)</li>
+                    <li>Connect Award (Community Outreach) - 2nd place</li>
+                    <li>Motivate Award (Team Spirit) - 3rd place</li>
+                    <li>Qualifed to LA Regional Championship</li>
+                </ul>
             </div>
-
-
         </div>
-        <!-- footer -->
-        <div class="insertion-point" file="../modularity/footer.html" ></div>
-        <script src="../modularity/modular.js"></script>
-    </body>
+
+
+    </div>
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
 </html>
