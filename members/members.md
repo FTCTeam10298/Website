@@ -1,7 +1,7 @@
 ![](images/profileBrody.png)
 ### Brody Sisson
 
-Team role: builder, new guy.  
+Team role: builder, driver  
 Years in FIRST: This is my FIRST year in first.  Wait.  Strike that.  Swap it.  
 Age: 14  
 Grade: 9  
@@ -45,7 +45,7 @@ Age: 16
 Grade: 9th  
 Favorite food: Korean BBQ  
 
-James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer. Check him out at his Linkedin profile: https://www.linkedin.com/in/james-penrose-b23a1a22b/
+James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer. Check him out at his Linkedin profile: [James Penrose on LinkedIn](https://www.linkedin.com/in/james-penrose-b23a1a22b/)
 
 <br>
 
