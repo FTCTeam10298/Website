@@ -1,16 +1,3 @@
-![](images/profileAdrian.png)
-### Adrian (AJ) Flores Jr.
-
-Team role: Builder, Coder  
-Years in FIRST: 2  
-Age: 14  
-Grade: 8th 
-Favorite food: Pho  
-
-Adrian is a part of Trinity Pacific Christian School and this is his first year in FTC. Last year he was a part of FLL with a team called, "Bricking the Limits" who made it to regionals and now he will be a part of FTC for the next four years. Adrian likes to play video games and plays Piano. He is excited to be a part of Brain Stormz and wants to learn about technology, problem solving, programing, and teamwork.
-
-<br>
-
 ![](images/profileBrody.png)
 ### Brody Sisson
 
@@ -52,13 +39,13 @@ As I participate in FTC I also like to do many other things in my spare time inc
 ![](images/profileJames.jpeg)
 ### James Penrose
 
-Team role: Coder, Builder  
-Years in FIRST: 3  
-Age: 15  
+Team role: Team Lead, Coder, Builder  
+Years in FIRST: 4  
+Age: 16  
 Grade: 9th  
 Favorite food: Korean BBQ  
 
-James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer.
+James has done FLL for two years on team 32221 Thunder Chickens as a programmer and builder, the team went to LA regionals twice and won a programming award and numerous design awards. He is excited to now start FTC. He enjoys doing kickboxing and Brazilian Ju-Jitsu. He is learning to be a Programmer and Robot designer. Check him out at his Linkedin profile: https://www.linkedin.com/in/james-penrose-b23a1a22b/
 
 <br>
 
