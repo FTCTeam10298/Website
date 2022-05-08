@@ -1,5 +1,8 @@
-const canvas = document.getElementById("canvas")
+const canvas = document.getElementById("canvas");
+// const interpButton = document.getElementById("interpolate")
+// const ctrlButton = document.getElementById("control")
 const ctx = canvas.getContext("2d");
+
 
 canvas.style.width = canvas.style.height
 
@@ -10,21 +13,12 @@ function line(p1, p2) {
     ctx.stroke();
 }
 
-function mousePosToCanvasPos(event) {
-    var rect = canvas.getBoundingClientRect();
-    console.log(rect.top, rect.right, rect.bottom, rect.left);
-
-    const x = scaleRange(0, window.width, rect.left, window.width, event.clientX);
-    const y = scaleRange(0, window.height, rect.top, window.height, event.clientY);
-    return new Point3D(x, y);
+function circle(x, y, radius) {
+    ctx.beginPath();
+    ctx.arc(x, y, radius, 0, 2 * Math.PI, false);
+    ctx.fill();
+    ctx.stroke();
 }
-
-function scaleRange(OldMin, OldMax, NewMin, NewMax, OldValue) {
-    OldRange = (OldMax - OldMin)
-    NewRange = (NewMax - NewMin)
-    return (((OldValue - OldMin) * NewRange) / OldRange) + NewMin
-}
-
 
 function displayBezier(bezier, definition) {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
@@ -36,6 +30,16 @@ function displayBezier(bezier, definition) {
     }
 }
 
+function getMousePos(canvas, evt) {
+    var rect = canvas.getBoundingClientRect(),
+        scaleX = canvas.width / rect.width,
+        scaleY = canvas.height / rect.height;
+
+    return {
+        x: (evt.clientX - rect.left) * scaleX,
+        y: (evt.clientY - rect.top) * scaleY
+    }
+}
 
 // CODE START
 
@@ -46,18 +50,25 @@ var bezier = new BezierCurve([
 ]);
 
 displayBezier(bezier, 100)
-    // 
-function onClick(event) {
-    const adjustedPos = mousePosToCanvasPos(event);
 
 
-    const newCtrlPoints = bezier.ctrlPoints.concat([new Point3D(adjustedPos.x, adjustedPos.y, 0)])
-    for (const i of newCtrlPoints) {
-        console.log(i.toString())
-    }
+canvas.addEventListener("click", (event) => {
+    // if 
+    const clickPosition = getMousePos(canvas, event);
 
+    const newCtrlPoints = bezier.ctrlPoints.concat([new Point3D(clickPosition.x, clickPosition.y, 0)])
     bezier = new BezierCurve(newCtrlPoints);
-    displayBezier(bezier, 1000)
-};
 
-canvas.addEventListener("click", onClick);
+    displayBezier(bezier, 1000)
+    ctx.fillStyle = 'red';
+    for (const i of newCtrlPoints) {
+        circle(i.x, i.y, 1);
+    }
+});
+
+interpButton.addEventListener("click", (event) => {
+
+});
+ctrlButton.addEventListener("click", (event) => {
+
+});
