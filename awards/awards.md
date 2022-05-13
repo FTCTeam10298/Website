@@ -7,7 +7,7 @@
 <br>
 
 #### SoCal Qualifying Tournament (February 2022)
-![](../images/)
+![](../images/2022QualsAwards.JPG)
 - Winning Alliance 1st Pick
 - Connect award
 
