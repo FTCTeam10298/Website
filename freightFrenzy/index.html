@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html ontouchmove>
+
+<head>
+    <title>Brain Stormz, Team 10298</title>
+    <link rel="shortcut icon" href="../images/brainStormzFavicon.png" type="image/png">
+    <link rel="stylesheet" href="../style.css" type="text/css" />
+    <script src="../markdown.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <!-- nav bar -->
+    <div class="insertion-point" file="../modularity/navBar.html"></div>
+    <script src="../modularity/modular.js"></script>
+    <script src="../modularity/navBar.js"></script>
+
+    <div class="content">
+
+        <!-- text -->
+        <div class="text">
+
+            <!-- members -->
+
+            <div id="markdown-content"></div>
+            <script src="../markdown.js"></script>
+            <script>
+                insertFrom('frenzy.md')
+            </script>
+
+        </div>
+
+    </div>
+    <!-- footer -->
+    <div class="insertion-point" file="../modularity/footer.html"></div>
+    <script src="../modularity/modular.js"></script>
+</body>
+
+</html>
