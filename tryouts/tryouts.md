@@ -3,23 +3,21 @@
 Membership with Brain Stormz is not automatic.  Membership is normally a 2-step process:
 
 ### STEP 1: Contact us.
+
 If you're interested in joining Brain Stormz contact us via [Holler](https://holler.fyi/s/5bd0f5brainstormz) or email (ftc10298@gmail.com).
 
 ### STEP 2: Try-Out.
 
 Complete a series of challenges to help gauge aptitude. 
 There are two challenge types to chose from: 
-- coding challenge
-- building challenge 
-(Note: the challenge you choose won't lock you into a particular type of role on the team)
+- Coding
+- Building
+
+*(Note: the challenge you choose won't lock you into a particular type of role on the team)*
 
 Each challenges consist of two portions:
-
-**Online test:**
-Applicants will be given an introductory challenge to get them accustomed to the tools we use on Brain Stormz.
-
-**In-person test:**
-Applicants will come to the lab and participate in a challenge which goes through the process of robot making from ideation and planning to execution and competition.
+- **Online:** Applicants will be given an introductory challenge to get them accustomed to the tools we use on Brain Stormz.
+- **In-person:** Applicants will come to the lab and participate in a challenge which goes through the process of robot making from ideation and planning to execution and competition.
 
 ### STEP 3: Team Decides
 
