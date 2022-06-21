@@ -2,25 +2,25 @@
 
 Membership with Brain Stormz is not automatic.  Membership is normally a 3-step process:
 
-## STEP 1: Contact us.
+## Step 1: Contact us.
 
-If you're interested in joining Brain Stormz contact us via [Holler](https://holler.fyi/s/5bd0f5brainstormz) and let us know that you want to try out.
+If you're interested in joining Brain Stormz contact us via [Holler](https://holler.fyi/s/5bd0f5brainstormz) or email (<ftc10298@gmail.com>) and let us know that you want to try out.
 
-You will have the option to choose between two types of tryout tests:
+For those looking to become a core engineering team member, you will have the option to choose between two types of tryout challenges:
 - Coding
 - Building
 
-*(Note: the challenge you choose won't lock you into a particular type of role on the team)*
+*(Note: The challenge you choose won't lock you into a particular type of role on the team, as it is mainly to gauge ability and willingness to learn.)*
 
-## STEP 2: Online Challenge
+## Step 2: Online Challenge
 
 Applicants will be given an introductory challenge to get them accustomed to the tools we use on Brain Stormz.
 
-## STEP 3: In-person Challenge
+## Step 3: In-person Challenge
 
 Applicants will come to the lab and participate in a challenge which goes through the process of robot making from ideation and planning to execution and competition.
 
-## STEP 4: Team Decides
+## Step 4: Team Decides
 
 After completing the challenges, members will be selected on the basis of:
 
@@ -36,9 +36,9 @@ After completing the challenges, members will be selected on the basis of:
 
 # How can I prepare?
 
-If you want to prepare for tryouts you can check out these camps from the penrose family:
-- [Irl Code Camps](https://penrose.us/irlcodecamps/) learn to code
-- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps) learn to build and cad
+If you want to prepare for tryouts, you can check out these camps from the Penrose family:
+- [Code Camps](https://penrose.us/irlcodecamps/): Learn to code
+- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps): Learn to build and CAD
 
 # What Spots Are Available?
 
