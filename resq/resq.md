@@ -1,6 +1,6 @@
 # Our Team Members - 2015-16 RES-Q Season
 
-| ![](/members/images/profileJeff.png) | ![](/members/images/profileSung.JPG) |
+| <div style="width:50%">![](/members/images/profileJeff.png)</div> | <div style="width:50%">![](/members/images/profileSung.JPG)</div> |
 |--|--|
 | Jeff DeVico | Sung Choi |
 | Team role: Coach | Team role: Coach | 
@@ -20,17 +20,13 @@
 -------------------------------------------------
 # Our Story - 2015-16 RES-Q Season
 
-#### The End of FLL Year 2
-
-Brain Stormz began as a seven-member FLL team called the B.E.S.T. team (Building Excellent Structures Together). As we planned for our next year, we were faced with a challenge- two of our members were moving into high school, and more than half of our team members were done with FIRST programs. We had a difficult decision to make: Stay in FLL one more year now that we had more experience, or move on to the next level with less than half of our original team. As a team, we resolved to move on and face FTC. It wasn't a complete jump in the dark- one of our team members from BEST had been in a different FTC team before, and a friend from an engineering club joined our team for the FTC year. Our first meetings as a team were before we even knew what the challenge was. We planned, prepared, discussed, fundraised, and had a pool party!
-
 #### The Beginning of the Challenge
 
-Finally the long awaited day came. The six of us (four students, plus the coaches) traveled to the kickoff and were amazed at this new challenge. When we saw that our robot had to hang on a bar, we all exclaimed (inwardly or outwardly)- partially in shock, partially in worry, but mainly just because it would be really awesome when we accomplished that.
+Finally, the long awaited day came: the season kickoff! The six of us (four students, plus the coaches) traveled to the kickoff and were amazed at this new challenge. When we saw that our robot had to hang on a bar, we all exclaimed (inwardly or outwardly)- partially in shock, partially in worry, but mainly just because it would be really awesome when we accomplished that.
 
 The year started out with fundraising and business planning. We were diligent with it, but we were waiting expectantly for the robot parts. Raising money was an extremely slow process! We sent emails to about a hundred different robotics and engineering businesses and only got a couple replies- mainly, 'We would like more information' and 'We cannot give out sponsorships at this time'. And there was another issue! To receive many potential donations, we needed a nonprofit organization- something which we could not get easily.
 
-Our planning for the robot was pretty vague. We weren't sure what the new non-lego systems could do, or what wheels were best for getting up ramps, or what arm attachments could support a dangling robot.
+Our planning for the robot was pretty vague. We weren't sure what the new non-Lego systems could do, or what wheels were best for getting up ramps, or what arm attachments could support a dangling robot.
 
 #### Working with the Robot
 
