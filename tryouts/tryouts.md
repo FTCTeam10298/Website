@@ -34,12 +34,6 @@ After completing the challenges, members will be selected on the basis of:
     - 5+ competitions
 - Ability to fill one or more needed roles
 
-# How can I prepare?
-
-If you want to prepare for tryouts, you can check out these camps from the Penrose family:
-- [Code Camps](https://penrose.us/irlcodecamps/): Learn to code
-- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps): Learn to build and CAD
-
 # What Spots Are Available?
 
 There are currently 2 spots available. Additional spots may be opened if the need arises and there are qualified candidates.
@@ -59,3 +53,12 @@ Candidates must be able to perform one or more of the following roles:
   - Graphic Designers
   - Video Producers
   - Community Outreach Liaisons
+
+# Should I prepare?
+
+The tryout process doesn't test on any special skill so there's no preparation necessary. 
+
+If you want to get a head-start on some of the skills students will learn after joining Brain Stormz then check out these camps from the penrose family:
+- [Irl Code Camps](https://penrose.us/irlcodecamps/) learn to code
+- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps) learn to build and cad
+- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps) learn to build and cad
