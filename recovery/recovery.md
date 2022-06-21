@@ -139,7 +139,7 @@ Kimberly Sharp truly enjoys being on team Brain Stormz. She has been a part of F
 
 # Our Sponsors - 2017-18 Relic Recovery Season:
 
-<a href="http://www.postageone.com" target="_blank" rel="noopener"> <img src="../images/poastageOne.jpg"> </a>
+<a href="http://www.postageone.com" target="_blank" rel="noopener"> <img src="../images/postageOne.jpg"> </a>
 
 <h3>Scott Family Foundation</h3>
 
