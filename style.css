@@ -216,3 +216,14 @@ td>img {
 #markdown-content>p>img {
     max-width: 30%;
 }
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
+table img {
+    width: 100%;
+}
+
+
