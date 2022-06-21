@@ -1,22 +1,3 @@
-# Our Team Members - 2015-16 RES-Q Season
-
-| <img style="width:100%" src="/members/images/profileJeff.png"> | <img style="width:100%" src="/members/images/profileSung.JPG"> |
-|--|--|
-| Jeff DeVico | Sung Choi |
-| Team role: Coach | Team role: Coach | 
-| Favorite food: Fondue | Favorite food: Asian Confusion |
-| Jeff has been coaching in FIRST for three years, and this is his first year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success. | Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering. |
-| ![](/members/images/profileDaniel.jpg) | ![](/members/images/profileNoah.png) |
-| Daniel Peace | Noah DeVico |
-| Team role: Robot Design/Building, Driver | Team role: Robot Design/Building, Driver |
-| Favorite food: Fish and Chips | Favorite food: Burgers |
-| Daniel Peace has always been interested in robotics and machines. This is his first year in First Tech Challenge, as a founding members. When not helping with robots, he enjoys playing basketball and volleyball, and he also plays piano. | Noah has been involved in FIRST programs since 2013. This is Noah's first year on a FTC team, having completed two years prior of FLL with The B.E.S.T Team. Noah is part of Trinity Pacific Christian School, which is a private school in Thousand Oaks, California. He is heavily involved in basketball at his school having played since he was ten. In his free time he likes to play his collection of vintage video games including a Sega Genesis and a Nintendo Entertainment System. Noah has liked engineering since he was little, having been a fan of Lego/Mindstorms since he was 7. |
-| ![](/members/images/profileNathan.jpg) | ![](/members/images/profileSkyler.png) |
-| Nathan Choi | Skyler Ray Atchison |
-| Team role: Robot Design/Building, Programming, Rulebook Clarifier | Team role: Document Proofreader, Website Manager, Robot Designer |
-| Favorite food: Shin Ramen | Favorite food: Burritos |
-| Nathan Choi is a 16 year nerd who goes to Trinity Pacific School. He was a member of FTC Trinity Crown Bots when he was a 6th grader. After that, he joined the FLL team, The B.E.S.T. Team, and is now a funding member of Brain Stormz. Nathan enjoys reading, playing with Legos, and playing video games. He is excited for Res-Q, and is ready for a great season. | Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn't pronouncing it right, nobody can prove him wrong. |
-
 # Our Story - 2015-16 RES-Q Season
 
 #### The Beginning of the Challenge
@@ -82,6 +63,25 @@ We went to the next tournament with minimal changes to the robot, but with high 
 | We ran into a problem at our second tournament- our switch-flipping attachments were not strong enough to activate the levers. We fixed it by putting the servos at a different angle and putting a shield around the bars. Another addition was a one-way hinge in the back that would protect electrical components from debris (in one round the debris detached a wire and shut down the entire robot) but bends out of the way when our robot goes up the bars. Also note that we used plastic for our tape measure holder rather than wood (which kept breaking apart); we included a 'unicorn horn' to hold the climbers and drop them into the basket; we added omni-wheels to allow the robot to turn better, and we added a mechanism to activate the all clear signal at the top of the mountain. |
 
 Going into regionals, we had completely redesigned our robot lifter housing to use Velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.  All in all though, this was an amazing first season as an FTC team!
+
+# Our Team Members - 2015-16 RES-Q Season
+
+| <img style="width:100%" src="/members/images/profileJeff.png"> | <img style="width:100%" src="/members/images/profileSung.JPG"> |
+|--|--|
+| Jeff DeVico | Sung Choi |
+| Team role: Coach | Team role: Coach | 
+| Favorite food: Fondue | Favorite food: Asian Confusion |
+| Jeff has been coaching in FIRST for three years, and this is his first year coaching an FTC team. Jeff has been the owner of a growing automated shipping business for the past 11 years. He graduated college with a bachelor's degree in architecture from Cal Poly. Jeff is a proud husband and father of three kids. He has a strong background in sales marketing, fundraising, and business planning. Jeff is excited to be coaching Brain Stormz and looks forward to their future success. | Sung has coached FIRST teams since FTC Block Party. Sung has been a software/systems engineer for over 20 years in various industries. He has a Masters degree from USC in Electrical Engineering. He is a loving husband and father of 2 children. Sung has a strong background in Software, Systems Design and Electrical Engineering. |
+| ![](/members/images/profileDaniel.jpg) | ![](/members/images/profileNoah.png) |
+| Daniel Peace | Noah DeVico |
+| Team role: Robot Design/Building, Driver | Team role: Robot Design/Building, Driver |
+| Favorite food: Fish and Chips | Favorite food: Burgers |
+| Daniel Peace has always been interested in robotics and machines. This is his first year in First Tech Challenge, as a founding members. When not helping with robots, he enjoys playing basketball and volleyball, and he also plays piano. | Noah has been involved in FIRST programs since 2013. This is Noah's first year on a FTC team, having completed two years prior of FLL with The B.E.S.T Team. Noah is part of Trinity Pacific Christian School, which is a private school in Thousand Oaks, California. He is heavily involved in basketball at his school having played since he was ten. In his free time he likes to play his collection of vintage video games including a Sega Genesis and a Nintendo Entertainment System. Noah has liked engineering since he was little, having been a fan of Lego/Mindstorms since he was 7. |
+| ![](/members/images/profileNathan.jpg) | ![](/members/images/profileSkyler.png) |
+| Nathan Choi | Skyler Ray Atchison |
+| Team role: Robot Design/Building, Programming, Rulebook Clarifier | Team role: Document Proofreader, Website Manager, Robot Designer |
+| Favorite food: Shin Ramen | Favorite food: Burritos |
+| Nathan Choi is a 16 year nerd who goes to Trinity Pacific School. He was a member of FTC Trinity Crown Bots when he was a 6th grader. After that, he joined the FLL team, The B.E.S.T. Team, and is now a funding member of Brain Stormz. Nathan enjoys reading, playing with Legos, and playing video games. He is excited for Res-Q, and is ready for a great season. | Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn't pronouncing it right, nobody can prove him wrong. |
 
 # Our Sponsors - 2015-16 RES-Q Season:
 
