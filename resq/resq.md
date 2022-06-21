@@ -17,7 +17,6 @@
 | Favorite food: Shin Ramen | Favorite food: Burritos |
 | Nathan Choi is a 16 year nerd who goes to Trinity Pacific School. He was a member of FTC Trinity Crown Bots when he was a 6th grader. After that, he joined the FLL team, The B.E.S.T. Team, and is now a funding member of Brain Stormz. Nathan enjoys reading, playing with Legos, and playing video games. He is excited for Res-Q, and is ready for a great season. | Skyler Atchison is a 14-year-old homeschooled roboticist. He has been with the team for three years and is excited to be doing FTC. His other interests include mime, reading, writing, video games, board games, and video production. He prides himself on being able to pronounce Pneumonoultramicroscopicsilicovolcanoconiosis... and even if he isn't pronouncing it right, nobody can prove him wrong. |
 
--------------------------------------------------
 # Our Story - 2015-16 RES-Q Season
 
 #### The Beginning of the Challenge
@@ -84,7 +83,7 @@ We went to the next tournament with minimal changes to the robot, but with high 
 
 Going into regionals, we had completely redesigned our robot lifter housing to use Velcro. This eliminated some issues we were having with the tape measure binding. We also added an arm to activate the flag at the top of the mountain. We did well throughout the day of tournament, and we placed 6th overall going into semifinals. We picked two teams for our alliance partners, but ended up loosing in the quarterfinals, do to accidentally driving too far up the mountain before latching on, and thus tumbling down the mountain. Because of this, we unfortunately did not make it to the super-regional competition.  All in all though, this was an amazing first season as an FTC team!
 
-## Sponsors:
+# Our Sponsors - 2015-16 RES-Q Season:
 
 <a href="https://web.archive.org/web/20161024030514/http://www.calmation.com/"><img src="../images/calmationLogo.png"></a>
 
