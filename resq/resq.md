@@ -1,6 +1,6 @@
 # Our Team Members - 2015-16 RES-Q Season
 
-| <div style="width:50%">![](/members/images/profileJeff.png)</div> | <div style="width:50%">![](/members/images/profileSung.JPG)</div> |
+| <img style="width:100%" src="/members/images/profileJeff.png"> | <img style="width:100%" src="/members/images/profileSung.JPG"> |
 |--|--|
 | Jeff DeVico | Sung Choi |
 | Team role: Coach | Team role: Coach | 
