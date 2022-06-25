@@ -6,11 +6,11 @@ Membership with Brain Stormz is not automatic.  Membership is normally a 3-step 
 
 If you're interested in joining Brain Stormz contact us via [Holler](https://holler.fyi/s/5bd0f5brainstormz) or email (<ftc10298@gmail.com>) and let us know that you want to try out.
 
-For those looking to become a core engineering team member, you will have the option to choose between two types of tryout challenges:
+You will have the option to choose between two types of tryout tests:
 - Coding
 - Building
 
-*(Note: The challenge you choose won't lock you into a particular type of role on the team, as it is mainly to gauge ability and willingness to learn.)*
+*(Note: The challenge you choose won't lock you into a particular type of role on the team.)*
 
 ## Step 2: Online Challenge
 
@@ -60,5 +60,4 @@ The tryout process doesn't test on any special skill so there's no preparation n
 
 If you want to get a head-start on some of the skills students will learn after joining Brain Stormz then check out these camps from the penrose family:
 - [Irl Code Camps](https://penrose.us/irlcodecamps/) learn to code
-- [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps) learn to build and cad
 - [Robotics Camps with James](https://www.holler.fyi/u/jamesroboticscamps) learn to build and cad
