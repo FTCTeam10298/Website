@@ -1,6 +1,6 @@
 # How do I Become A Team Member?
 
-Membership with Brain Stormz is not automatic.  Membership is normally a 3-step process:
+Membership with Brain Stormz is not automatic.  Membership is normally a 3-step process: (tryouts must be completed by August 6)
 
 ## Step 1: Contact us.
 

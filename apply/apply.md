@@ -25,4 +25,4 @@ For more about FTC, visit https://www.firstinspires.org/robotics/ftc
 
 ## How do I Become A Team Member?
 
-Membership with Brain Stormz is not automatic.  Applicants must go through the [tryout process](../tryouts).
+Membership with Brain Stormz is not automatic.  Applicants must go through the [tryout process](../tryouts). Tryouts close on August 6th.
