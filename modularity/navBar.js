@@ -19,7 +19,7 @@
     document.addEventListener("click", function() {
         console.log("click");
         
-        if(innerWidth <= 980) {
+        if(innerWidth <= 1200) {
             if(!hamburgerClick) {
                 tog = "none";
                 menu.style.display = tog;
@@ -31,7 +31,7 @@
     window.addEventListener("resize", function() {
         console.log("change")
 
-        if (window.innerWidth >= 981) {
+        if (window.innerWidth >= 1201) {
             menu.style.display = "flex";
             tog = "none";
         } else {
