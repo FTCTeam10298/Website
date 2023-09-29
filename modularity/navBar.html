@@ -3,7 +3,7 @@
     <a href="/" class="left"><img src="/images/logoWebsite.svg"></a>
     <div class="right">
         <a id="bar" class="bar" onclick="showMenu()"><img src="/images/hamburgerMenu.svg"></a>
-        <ul id="menu" class="menu">
+        <ul id="menu" class="menu" onclick="event.stopPropagation()">
             <li class="dropdown">
                 <a class="dropdown navItem">Team</a>
                 <ul class="dropdownContent">
